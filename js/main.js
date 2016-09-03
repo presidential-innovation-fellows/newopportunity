@@ -11,12 +11,14 @@
     function getHostname(url) {
       var a = document.createElement('a');
       a.href = url;
+      
       return $(a).prop('hostname');
     }
 
     /* Show alert when leaving a .gov domain. */
     function alertLeavingUsg(e, newHostname) {
-      if (!newHostname.match(/\.gov$/)) {
+      
+      if (!newHostname && !newHostname.match(/\.gov$/)) {
         if (confirm('You are about to leave this web site for a destination ' +
                     'outside of the Federal Government. You may wish to ' +
                     'review each privacy notice since their information ' +
@@ -33,7 +35,7 @@
     }
 
     $('a').click(function(e) {
-      alertLeavingUsg(e, $(this).prop('hostname'));
+      //alertLeavingUsg(e, $(this).prop('hostname'));
     });
     $('form').submit(function(e) {
       alertLeavingUsg(e, getHostname($(this).prop('action')));
