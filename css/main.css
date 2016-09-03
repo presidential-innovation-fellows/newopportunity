@@ -9,6 +9,9 @@
     display: none; } }
 h1, h2, h3, h4, h5, h6 {
   color: #205493; }
+.white {
+  color: #fff;
+}
 
 h2 {
   font-size: 4rem; }
@@ -110,7 +113,7 @@ main > .ood-alt2 {
     padding: 1.5em 0; 
   width:100%;
   display:block;
-  height: 300px;
+  /*height: 300px;*/
     
 }
   .ood-nav h2 {
@@ -177,7 +180,7 @@ main > .ood-alt2 {
         box-shadow: -32px 0 0 0 #fff, 0 -32px 0 0 #fff, 0 32px 0 0 #fff, -32px 32px 0 0 #fff, -32px -32px 0 0 #fff, 0 0 32px 0 rgba(0, 0, 0, 0.15); } }
 
 .quarter-container {
-  float:none;
+  /*float:none;*/
   
   position: relative;   
     float:left;
@@ -357,3 +360,7 @@ body > footer .usa-footer-logo-img {
   vertical-align: middle;
   margin-right: 3rem;
   margin-bottom: 3rem; }
+.clearfix {
+  overflow: auto;
+  zoom: 1;
+}

@@ -2332,7 +2332,7 @@ fieldset {
         max-width: 21.5rem; } }
 
 .usa-navbar {
-  border-bottom: 1px solid #aeb0b5;
+  /*border-bottom: 1px solid #aeb0b5;*/
   height: 2rem; }
   @media screen and (min-width: 951px) {
     .usa-navbar {
@@ -2350,7 +2350,7 @@ fieldset {
       margin-left: 0;
       margin-top: 3.3rem; } }
   .usa-logo a {
-    color: #212121;
+    color: #205493;
     text-decoration: none; }
   .usa-logo br {
     display: none; }
