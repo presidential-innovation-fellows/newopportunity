@@ -16,8 +16,8 @@ h1, h2, h3, h4, h5, h6 {
 h2 {
   font-size: 4rem; }
 
-h3 {
-  color:darkred; }
+/*h3 {
+  color:darkred; }*/
 
 i.fa-github {
   margin-left: 0.15em; }
@@ -119,14 +119,16 @@ main > .ood-alt2 {
   .ood-nav h2 {
     color: #fff;
     font-family: 'Source Sans Pro';
-    font-weight: 700;
+    font-weight: 400;
     font-size: 34px;
     line-height: 1.3em/44px; }
   .ood-nav a {
     text-decoration: none; }
     .ood-nav a p {
       color: #5b616b; }
-  .ood-nav i.fa {
+  
+/*
+.ood-nav i.fa {
     position: relative;
     display: inline-block;
     width: 9em;
@@ -160,7 +162,7 @@ main > .ood-alt2 {
       left: 0;
       border-top: solid 2em #cd2026;
       border-left: solid 4.5em transparent;
-      border-right: solid 4.5em transparent; }
+      border-right: solid 4.5em transparent; }*/
   @media screen and (min-width: 600px) {
     .ood-nav .ood-middle {
       position: relative; }
@@ -190,6 +192,126 @@ main > .ood-alt2 {
   
   
 }
+
+.third-container {
+  /*float:none;*/
+  
+  position: relative;   
+    float:left;
+    width:100%;
+  padding:0px;
+  min-height:450px;
+  
+  
+}
+
+.half-container {
+  /*float:none;*/
+  
+  position: relative;   
+    float:left;
+    width:100%;
+  padding:0px;
+  min-height:450px;
+  
+  
+}
+.half-container .background-image-overlay1{
+  
+    
+    /*padding: 10.5em 0;*/
+  width: 50%;  
+  float:left;
+  display:inline-block;
+     
+    height:450px;
+    top: 0px;
+    
+    opacity: 0.9;
+    
+    background-color: #333333;
+    z-index: 1041;
+    background: url("http://kamanda.org/home/wp-content/uploads/2016/04/overlay_datawomen_blue.jpg") 80% 0%;
+}
+.half-container .background-image-overlay2{
+  
+    
+    /*padding: 10.5em 0;*/
+  width: 50%;  
+  float:left;
+  display:inline-block;
+     
+    height:450px;
+    top: 0px;
+    
+   /* opacity: 0.20;
+    -moz-opacity: 20%;
+    -webkit-opacity: 20%;*/
+    opacity: 0.9;
+    background-color: yellow;
+    z-index: -99;
+    background: url("http://kamanda.org/home/wp-content/uploads/2016/04/overlay_build_red.jpg") 80% 0%;
+}
+
+.third-container .background-image-overlay1{
+  
+    
+    /*padding: 10.5em 0;*/
+  width: 34%;  
+  float:left;
+  display:inline-block;
+     
+    
+    top: 0px;
+    
+    opacity: 0.9;
+    
+  
+  
+    
+    /*background: url("../img/mobile_screenshot1.jpg") ;*/
+}
+.third-container .background-image-overlay2{
+  
+    
+    /*padding: 10.5em 0;*/
+  
+  width: 66%;  
+  float:left;
+  display:inline-block;
+     
+    
+    top: 0px;
+  
+    
+   /* opacity: 0.20;
+    -moz-opacity: 20%;
+    -webkit-opacity: 20%;*/
+    opacity: 0.9;
+    
+  
+  
+  
+}
+.background-image-overlay{
+  
+   padding: 10.5em 0;
+  width: 34%;
+  background-size: contain;
+  float:left;
+  display:inline-block;
+    
+    
+    top: 0px;
+    
+    
+    
+    
+    background-size: 100% 100%;
+    
+    background: url("../img/mobile_screenshot1.jpg") 50% 0%;
+}
+
 .quarter-container .background-image-overlay_first{
   
     
