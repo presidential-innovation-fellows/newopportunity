@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+
+	<script type="text/x-handlebars-template" id="galleryTemplate">
+		{{#each data}}
+			<div class="mix {{category}} usa-width-one-third panel-design">
+              <div class="panel-content-div">
+                <h2>{{title}}</h2>
+                <img src="./img/data-consumers/{{imageFile}}">
+                <p> {{shortMessage}}.</p>
+                <div class="usa-center">
+                  <a href="" class="usa-button usa-button-secondary">Learn More</a>
+                </div>
+              </div>
+            </div>
+		{{/each}}
+	</script>
+</body>
+</html>
