@@ -426,10 +426,10 @@
   border-color: black;
 }
 
-.button-div {
+/*.button-div {
   text-align: center;
 }
-
+*/
 .housing {
   border-color: blue;
 }
@@ -495,4 +495,8 @@
   background-color: red;
   color: white;
   border: 4px solid white;
+}
+
+.grid-filler {
+  width: 11.17215%;
 }
