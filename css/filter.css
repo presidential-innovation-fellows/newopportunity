@@ -408,7 +408,7 @@
 }
 
 .education {
-  border-color: green;
+  border-color: #aeb0b5;
 }
 
 .panel-design h2 {
@@ -431,7 +431,7 @@
 }
 */
 .housing {
-  border-color: blue;
+  border-color: #aeb0b5;
 }
 
 .panel-design p {
@@ -439,7 +439,7 @@
 }
 
 .domestic-abuse {
-  border-color: #9338BF;
+  border-color: #aeb0b5;
 }
 
 #Container .mix {
@@ -499,4 +499,10 @@
 
 .grid-filler {
   width: 11.17215%;
+}
+
+.usa-button-outline.button-style {
+    background-color: #ffffff;
+    
+    color: #0071bc; }
 }
