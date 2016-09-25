@@ -1,6 +1,6 @@
 //Using MixItUp
 
-$(function(){
+$(document).ready( function(){
 
   // Instantiate MixItUp:
 

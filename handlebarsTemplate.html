@@ -5,19 +5,29 @@
 </head>
 <body>
 
+	<div id="Container">
+
+	<h1>HI</h1>
+	<h2>Hellow</h2>
+
 	<script type="text/x-handlebars-template" id="galleryTemplate">
 		{{#each data}}
-			<div class="mix {{category}} usa-width-one-third panel-design">
+			<div class="mix {{Category}} usa-width-one-third panel-design">
               <div class="panel-content-div">
-                <h2>{{title}}</h2>
-                <img src="./img/data-consumers/{{imageFile}}">
-                <p> {{shortMessage}}.</p>
+                <h2>{{Title}}</h2>
+                <img src="./img/data-consumers/{{Image-File}}">
+                <p> {{Short-Message}}.</p>
                 <div class="usa-center">
-                  <a href="{{gallery-item-link}}" class="usa-button usa-button-secondary">Learn More</a>
+                  <a href="{{Gallery-Link}}" class="usa-button usa-button-secondary">Learn More</a>
                 </div>
               </div>
             </div>
 		{{/each}}
 	</script>
+
+	</div>
+	<script   src="https://code.jquery.com/jquery-3.1.1.min.js"   integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="   crossorigin="anonymous"></script>
+	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.0.5/handlebars.min.js"></script>
+	<script type="text/javascript" src="js/handlebarsCode.js"></script>
 </body>
 </html>
