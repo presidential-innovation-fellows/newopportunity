@@ -9,7 +9,7 @@ $.ajax({
       var thumbnailSource = $('#galleryTemplate').html();
       var thumbnailTemplate = Handlebars.compile(thumbnailSource);
       var thumbnailHTML = thumbnailTemplate(data);
-      $('#gallery-opp-proj').prepend(thumbnailHTML);
+      $('#gallery-body').prepend(thumbnailHTML);
       })
 
    }

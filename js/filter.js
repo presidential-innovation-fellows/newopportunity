@@ -4,7 +4,11 @@ $(document).ready( function(){
 
   // Instantiate MixItUp:
 
-  $('#Container').mixItUp();
+  $('#Container').mixItUp({ 
+    load: {
+      filter: 'all'
+    }
+  });
 
 });
 
