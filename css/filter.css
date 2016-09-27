@@ -405,8 +405,7 @@
 .panel-design {
   border-style: solid;
   border-width: 5px;
-/*  margin-right: 1.35765% !important;
-  width: 23.23176% !important;*/
+
 }
 
 .education {
@@ -510,6 +509,15 @@
     color: #0071bc; }
 }
 
-.mix.usa-width-one-third.panel-style-changes {
+/*Cell phone*/
+ @media screen and (min-width: 600px) {
+  .panel-design {
+    margin-right: 2.82916% !important;
+  }
+ }
 
-}
+ @media screen and (min-width: 1201px) {
+  .panel-design {
+      margin-right: 1.35765% !important;
+  }
+ }
