@@ -402,14 +402,30 @@
 .element-item-spring2016.rural      { background: #3FF; background: hsl( 144, 100%, 50%); }
 .element-item-spring2016.advocacy { background: #77F; background: hsl( 180, 100%, 50%); }
 
+.background-styling {
+  background-image: linear-gradient(rgba(7, 7, 104, 0.8), rgba(7, 7, 104, 0.8)
+    ),
+    url(../img/flags.jpg);
+  background-size: cover;
+  background-position: center bottom;
+  padding-bottom: 5em;
+}
+/*Photo Credit: https://pixabay.com/en/flags-american-manhattan-1425351/*/
+
+
+.page-content-header-text h1 {
+  color: white;
+}
+
+.page-content-header-text h3 {
+  color: white;
+}
+
 .panel-design {
   border-style: solid;
   border-width: 5px;
-
-}
-
-.education {
   border-color: #aeb0b5;
+  margin-bottom: 2%;
 }
 
 .panel-design h2 {
@@ -428,63 +444,17 @@
   border-color: black;
 }
 
-/*.button-div {
-  text-align: center;
-}
-*/
-.housing {
-  border-color: #aeb0b5;
-}
-
 .panel-design p {
   height: 100px;
 }
 
-.domestic-abuse {
-  border-color: #aeb0b5;
+.filters-div {
+  margin-top: 2em;
+  margin-bottom: 2em;
 }
 
 #Container .mix {
   display: none;
-}
-
-.usa-button-housing {
-  border: 4px solid blue;
-  background-color: white;
-  color: blue;
-}
-
-.usa-button-housing:hover {
-  border: 4px solid white;
-  background-color: blue;
-  color: white;
-  box-shadow: 0 0 3px #3e94cf, 0 0 7px #3e94cf;
-}
-
-.usa-button-education {
-  border: 4px solid green;
-  background-color: white;
-  color: green;
-}
-
-.usa-button-education:hover {
-  border: 4px solid white;
-  background-color: green;
-  color: white;
-  box-shadow: 0 0 3px #3e94cf, 0 0 7px #3e94cf;
-}
-
-.usa-button-domestic {
-  border: 4px solid #9338BF;
-  background-color: white;
-  color: #9338BF;
-}
-
-.usa-button-domestic:hover {
-  border: 4px solid white;
-  background-color: #9338BF;
-  color: white;
-  box-shadow: 0 0 3px #3e94cf, 0 0 7px #3e94cf;
 }
 
 .usa-button-show-all {
@@ -505,11 +475,10 @@
 
 .usa-button-outline.button-style {
     background-color: #ffffff;
-    
     color: #0071bc; }
 }
 
-/*Cell phone*/
+
  @media screen and (min-width: 600px) {
   .panel-design {
     margin-right: 2.82916% !important;
