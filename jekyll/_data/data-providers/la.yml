@@ -1,0 +1,170 @@
+name: "Los Angeles"
+url: "https://data.lacity.org"
+datasets:
+  - topic: "311"
+    description: "311 Data"
+    url: "https://performance.lacity.org/Government/311-Data/u7vv-5qst"
+
+  - topic: "311"
+    description: "311 Call Center Tracking Data"
+    url: "https://data.lacity.org/dataset/311-Call-Center-Tracking-Data/ukiu-8trj"
+
+  - topic: "Code enforcement"
+    description: "Building and Safety Code Enforcement Case"
+    url: "https://data.lacity.org/A-Safe-City/Building-and-Safety-Code-Enforcement-Case/2uz8-3tj3"
+
+  - topic: "Code enforcement"
+    description: "Listing of Active Businesses"
+    url: "https://data.lacity.org/A-Prosperous-City/Listing-of-Active-Businesses/6rrh-rzua"
+
+  - topic: "Crime"
+    description: "LA County Datasets, Criminal"
+    url: "https://data.lacounty.gov/browse?category=Criminal&limitTo=datasets&utf8=%E2%9C%93"
+
+  - topic: "Crime"
+    description: "Safe City Datasets"
+    url: "https://data.lacity.org/browse?category=A+Safe+City&limitTo=datasets&sortBy=relevance"
+
+  - topic: "Crime"
+    description: "LAPD Map Server"
+    url: "http://maps.lacity.org/lahub/rest/services/LAPD/MapServer"
+
+  - topic: "Crime"
+    description: "Public Safety Layers (LA County)"
+    url: "http://public.gis.lacounty.gov/public/rest/services/LACounty_Dynamic/LMS_Data_Public/MapServer/131"
+
+  - topic: "Employment"
+    description: "Work Source Centers Location And Contact Info"
+    url: "https://data.lacity.org/dataset/Work-Source-Centers-Location-And-Contact-Info/qq2n-4wfr"
+
+  - topic: "Health and environment"
+    description: "CalFresh SNAP Authorized Farmers Markets"
+    url: "https://data.lacounty.gov/Services/CalFresh-SNAP-Authorized-Farmers-Markets/u42d-bpik"
+
+  - topic: "Health and environment"
+    description: "Department of Mental Health (DMH) Provider Directory"
+    url: "https://data.lacounty.gov/Mental-Health/Department-of-Mental-Health-DMH-Provider-Directory/tedn-xr2r"
+
+  - topic: "Health and environment"
+    description: "Licensed Residential Facilities and/or Certified Alcohol and Drug Programs"
+    url: "https://chhs.data.ca.gov/Facilities-and-Services/Department-of-Health-Care-Services-DHCS-Licensed-R/rzbp-crfv"
+
+  - topic: "Health and environment"
+    description: "Women Infants and Children (WIC) Authorized Vendors"
+    url: "https://chhs.data.ca.gov/Facilities-and-Services/Women-Infants-and-Children-WIC-Authorized-Vendors/x5nq-b49e"
+
+  - topic: "Health and environment"
+    description: "Hospital Building Data"
+    url: "https://chhs.data.ca.gov/Facilities-and-Services/Hospital-Building-Data/x4kp-ag8p"
+
+  - topic: "Health and environment"
+    description: "California Health & Human Services Datasets"
+    url: "https://chhs.data.ca.gov/"
+
+  - topic: "Health and environment"
+    description: "Environment Layers (LA County)"
+    url: "http://public.gis.lacounty.gov/public/rest/services/LACounty_Dynamic/LMS_Data_Public/MapServer/57"
+
+  - topic: "Health and environment"
+    description: "Health & Mental Health Layers (LA County)"
+    url: "http://public.gis.lacounty.gov/public/rest/services/LACounty_Dynamic/LMS_Data_Public/MapServer/74"
+
+  - topic: "Homelessness"
+    description: "Point in Time Homeless Counts Results"
+    url: "http://www.lahsa.org/homeless-count/results"
+
+  - topic: "Housing"
+    description: "HCIDLA Affordable Housing Projects Catalog And Listing (2003 To Present)"
+    url: "https://data.lacity.org/A-Livable-and-Sustainable-City/HCIDLA-Affordable-Housing-Projects-Catalog-And-Lis/u4mj-cwbz"
+
+  - topic: "Housing"
+    description: "2015 Registered Foreclosure Properties"
+    url: "https://data.lacity.org/A-Well-Run-City/2015-Registered-Foreclosure-Properties/f37w-ye7d"
+
+  - topic: "Housing"
+    description: "Housing & Community Investment Service Locations"
+    url: "https://data.lacity.org/A-Livable-and-Sustainable-City/Housing-Community-Investment-Service-Locations/29cn-rph9"
+
+  - topic: "Housing"
+    description: "Housing and Community Investment Department Map Server"
+    url: "http://maps.lacity.org/lahub/rest/services/Housing_and_Community_Investment_Department/MapServer"
+
+  - topic: "Parcels and addresses"
+    description: "Parcels"
+    url: "http://data.lahub.opendata.arcgis.com/datasets/3b9f7696cd444b168ca6cf1726ae8420_5"
+
+  - topic: "Parcels and addresses"
+    description: "Landbase Information Map Server"
+    url: "http://maps.lacity.org/lahub/rest/services/Landbase_Information/MapServer"
+
+  - topic: "Parcels and addresses"
+    description: "Accessor Parcel Change File"
+    url: "https://data.lacounty.gov/Parcel-/Assessor-Parcel-Change-File/qju6-wpwm"
+
+  - topic: "Permits"
+    description: "Building and Safety Permit Information"
+    url: "https://data.lacity.org/A-Prosperous-City/Building-and-Safety-Permit-Information/yv23-pmwf"
+
+  - topic: "Permits"
+    description: "Bureau of Engineering Permit Information"
+    url: "https://data.lacity.org/A-Livable-and-Sustainable-City/Bureau-of-Engineering-Permit-Information/j7mw-thyc"
+
+  - topic: "Preschool/daycare"
+    description: "Child Care (LA County)"
+    url: "http://public.gis.lacounty.gov/public/rest/services/LACounty_Dynamic/LMS_Data_Public/MapServer/149"
+
+  - topic: "Publicly owned land"
+    description: "City Facilities"
+    url: "https://data.lacity.org/A-Well-Run-City/City-Facilities-Building-Book-/p4zb-k7qp"
+
+  - topic: "Publicly owned land"
+    description: "Library Branches"
+    url: "https://data.lacity.org/A-Livable-and-Sustainable-City/Library-Branches/a4nt-4gca"
+
+  - topic: "Publicly owned land"
+    description: "Department of Recreation and Parks' Facility and Park Information"
+    url: "https://data.lacity.org/A-Livable-and-Sustainable-City/Department-of-Recreation-and-Parks-Facility-and-Pa/ax8j-dhzm"
+
+  - topic: "Schools"
+    description: "Education layers (LA County)"
+    url: "http://public.gis.lacounty.gov/public/rest/services/LACounty_Dynamic/LMS_Data_Public/MapServer/43"
+
+  - topic: "Schools"
+    description: "Schools (LAUSD)"
+    url: "http://maps.lacity.org/lahub/rest/services/LAUSD_Schools/MapServer/0"
+
+  - topic: "Schools"
+    description: "School Districts (LA County)"
+    url: "http://public.gis.lacounty.gov/public/rest/services/LACounty_Dynamic/LMS_Data_Public/MapServer/52"
+
+  - topic: "Schools"
+    description: "School Garden Locations"
+    url: "https://performance.lacity.org/dataset/School-Garden-Locations-in-the-City-of-Los-Angeles/9tdc-tmjp"
+
+  - topic: "Transit"
+    description: "Metro Bus and Rail Map Server"
+    url: "http://maps.lacity.org/lahub/rest/services/Metro_Bus_and_Rail/MapServer"
+
+  - topic: "Transit"
+    description: "LADOT Map Server (Bikeways, Parking lots, Crosswalks and more)"
+    url: "http://maps.lacity.org/lahub/rest/services/LADOT/MapServer"
+
+  - topic: "Transit"
+    description: "Street Information Map Server"
+    url: "http://maps.lacity.org/lahub/rest/services/Street_Information/MapServer"
+
+  - topic: "Transit"
+    description: "Bike Count Data Clearing House"
+    url: "http://www.bikecounts.luskin.ucla.edu/"
+
+  - topic: "Transit"
+    description: "LADOT Traffic Counts Summary"
+    url: "https://data.lacity.org/A-Livable-and-Sustainable-City/LADOT-Traffic-Counts-Summary/94wu-3ps3"
+
+  - topic: "Zoning"
+    description: "Zoning reference table"
+    url: "https://data.lacity.org/A-Well-Run-City/Zoning-Reference-Table/ikdx-vgub"
+
+  - topic: "Zoning"
+    description: "City Planning Map Server"
+    url: "http://maps.lacity.org/lahub/rest/services/City_Planning_Department/MapServer"

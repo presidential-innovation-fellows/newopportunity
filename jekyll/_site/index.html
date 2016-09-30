@@ -1,0 +1,416 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+  <meta charset="utf-8">
+
+  <!--
+                      __,__r========qL,
+                   ,m**`~'            XW;
+            ____Lm/'      _mmmm    jW@+===m___,
+      .m+*f~TX7''|    `Y*X@X7~MMLL          ._JXmL,
+    jf~'    `YM#:~      !*##@ d j@~Y!     `~~~+m_
+   Z            M       `Nd*=+5+      -====L__ !M-
+  m!            `Y=;m_,   ~Yf~~               YL`W;
+  |        .mmmmmqrL_XXX~*==mL,                 Y#|
+  |  ,Z~~~~~'        ~~~~    X#         -==L__,  !#,
+  | |tL             ____WY*f~~                `~qd#W
+  V,| `~~Y*+mL_,  :f~~ ~                   q_    V#b
+  `b|         `Y+-W;                        `\\,  _#
+    V              N,  m                 YL,   `\L#@
+                    N  #                   YL,   `##,
+                   .P  #                     `\   V#|
+                 ../   #           ^           YL |W
+                -P     #    :P  ;  ||           `|!W
+                Z'     #   :P  :'   #,           #L#
+            _ _Wb    jWD  jf   /    |b           V@*
+          j+N##8#4rt8#~.,jf    |    |#       b   |W
+       .r*'m8####q#P8###*'    W    :##       V;  d|
+      /K_jWK#X###~#|###mW#   :P  j;##|    #, `#, @
+     !TGW###8#m#K7q=WWmd##mmm#m.Z8###!    #W  |b |
+     /4#@##W#+##P:WZWMZ*W=m##WMN|WZWP:#;m,d#W;Dd |
+    W*~~~M#W!KWjW5!!/WV##N7j#KXPNMX#DW###b###D#Xb|
+   !'    d!JXXXW!`!Ldm@#bd#WW8K)X|X#8#8#K##V#!K5|#
+        d@f~  jf.Z\/Vb*Y+W#j(WMZPrMM#@##K#@##;WWj##,
+        ~    m*~'   '#`\8#W4KW#qX@VW##W#8##8#rNWK###G-
+            `'       #`8*=#YWWK/b+WW#W#*#MWm8*KKd#M#**m,
+                     #Z'  VW#f'~M+NM#####K#8@WLMZKX#W#+M;
+                              ~` *YM#######@*)P/+DK####m#
+                                   `'*##fXVPX|Vr~##Z#W@N@
+                                      `WL_d**DfWX#8#WK##*b
+                                                `W###@#N#/b
+                                                 .#mj#X~YM#
+                                                 ~`#WdD~  Y!
+                                                 `'_|#f+-
+
+  Built by Presidential Innovation Fellows (http://pif.gov)
+
+-->
+
+
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>The Opportunity Project</title>
+  <meta name="description" content="An open data effort to improve economic mobility for all Americans.
+">
+
+  <link rel="canonical" href="http://opportunity.census.gov/">
+
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <link rel="stylesheet" href="designstandards/assets/css/main.css?v=0.8.3">
+  <link rel="stylesheet" href="designstandards/assets/css/google-fonts.css">
+  <link rel="stylesheet" href="css/main.css">
+  <link rel="stylesheet" href="css/filter.css">
+  <link rel="stylesheet" href="css/styleguide.css">
+  <!-- Favicons
+  ================================================== -->
+  <!-- 128x128 -->
+  <link rel="shortcut icon" type="image/ico" href="designstandards/assets/img/favicons/favicon.ico" />
+  <link rel="icon" type="image/png" href="designstandards/assets/img/favicons/favicon.png" />
+
+  <!-- 192x192, as recommended for Android
+  http://updates.html5rocks.com/2014/11/Support-for-theme-color-in-Chrome-39-for-Android
+  -->
+  <link rel="icon" type="image/png" sizes="192x192" href="designstandards/assets/img/favicons/favicon-192.png" />
+
+  <!-- 57x57 (precomposed) for iPhone 3GS, pre-2011 iPod Touch and older Android devices -->
+  <link rel="apple-touch-icon-precomposed" href="designstandards/assets/img/favicons/favicon-57.png">
+  <!-- 72x72 (precomposed) for 1st generation iPad, iPad 2 and iPad mini -->
+  <link rel="apple-touch-icon-precomposed" sizes="72x72" href="designstandards/assets/img/favicons/favicon-72.png">
+  <!-- 114x114 (precomposed) for iPhone 4, 4S, 5 and post-2011 iPod Touch -->
+  <link rel="apple-touch-icon-precomposed" sizes="114x114" href="designstandards/assets/img/favicons/favicon-114.png">
+  <!-- 144x144 (precomposed) for iPad 3rd and 4th generation -->
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="designstandards/assets/img/favicons/favicon-144.png">
+
+  <meta property="og:title" content="The Opportunity Project" />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="http://opportunity.census.gov" />
+  <meta property="og:description" content="An open data effort to improve economic mobility for all Americans.
+" />
+  <meta property="og:image" content="http://opportunity.census.gov/img/open-graph.jpg" />
+
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:site" content="@uscensusbureau" />
+  <meta name="twitter:creator" content="@InnovFellows" />
+  <meta name="twitter:title" content="The Opportunity Project" />
+  <meta name="twitter:description" content="An open data effort to improve economic mobility for all Americans.
+" />
+  <meta name="twitter:image" content="http://opportunity.census.gov/img/open-graph.jpg" />
+
+</head>
+
+
+  <body>
+
+    <header >  
+  <a class="usa-skipnav" href="#main-content">Skip to main content</a>
+  <div class="ood-nav">
+    <div class="usa-nav-container">
+      <div class="usa-navbar">
+        <button class="usa-menu-btn">Menu</button>
+        <div class="usa-logo" id="logo">
+          <em class="usa-logo-text">
+            <a href="index.html" accesskey="1" title="Home" aria-label="Home">The Opportunity Project</a>
+            
+          </em>
+        </div>
+      </div>
+      <nav role="navigation" class="usa-nav">
+        <button class="usa-nav-close">
+          <img src="designstandards/assets/img/close.svg" alt="close">
+        </button>
+        <ul class="usa-nav-primary usa-accordion">
+           <li>
+            <a href="index.html"><button class="
+            usa-nav-link" aria-expanded="false">
+              <span>Home</span>
+            </button></a>
+            
+          </li>
+         
+          <li>
+            <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="sidenav-2">
+              <span><a href="tools.html">Featured Projects</a></span>
+            </button>
+       
+          </li>
+          <li>
+            <a class="usa-nav-link" href="build.html">
+              <span>Build</span>
+            </a>
+          </li>
+          <li>
+            <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="sidenav-2">
+              <span><a href="http://eepurl.com/cd6yor">Join</a></span>
+            </button>
+          
+          </li>
+          
+        </ul>
+       
+      </nav>
+    </div>
+    </div>
+  </header>
+
+
+    <main class="usa-content" id="main-content">
+        <div class="ood-banner">
+    <div class="usa-grid">
+      <h1>The Opportunity Project</h1>
+      <p class="usa-font-lead">Creating tools to help communities thrive</p>
+      
+         <a href="http://eepurl.com/cd6yor"
+         class="usa-button usa-button-big">Join Us</a>
+      <a href="tools.html"
+         class="usa-button usa-button-outline usa-button-big" style="display:none;">Featured Projects</a>
+    </div>
+  </div>
+<section  id="whatitis" class="ood-alt">
+  <div class="usa-grid-full">
+  <h1 style="text-align: center;">What is The Opportunity Project?</h1>
+    <p class="usa-font-lead" style="text-align: center;">The Opportunity Project is a platform to build more just and equitable communities through open data, technology and collaboration. Together, we are creating tools that empower people with information about the resources we all need to thrive. The Opportunity Project is:</p>
+    <div class="usa-width-one-third" style="text-align: center; "> 
+      <span class="fa-stack fa-5x" style="color:#205493;" >
+        <!--<i class="fa fa-circle-thin fa-stack-2x" ></i>-->
+        <i class="fa fa-info-circle fa-stack-1x"  ></i>
+      </span>
+     <h3 style="text-align: center;">Empowering people with information</h3>
+      
+
+      <!--<p class="usa-font-lead" style="text-align: center;">Engage in your community.</p>-->
+      <p class="ood-description" style="text-align: center;">New digital tools are helping families, community leaders, and local officials make more informed decisions, access new resources, and expand opportunity for all.</p>
+    </div>
+    <div class="usa-width-one-third" style="text-align: center;"> 
+    <span class="fa-stack fa-5x" style="color:#205493;">
+        <!--<i class="fa fa-circle-thin fa-stack-2x"></i>-->
+        <i class="fa fa-database fa-stack-1x"></i>
+      </span>
+      <h3 style="text-align: center;">Making government data accessible</h3>
+      
+
+      <!--<p class="usa-font-lead" style="text-align: center;">blah blah</p>-->
+      <p class="ood-description" style="text-align: center;">A carefully curated combination of Federal and local open data on access to neighborhood-level resources, like proximity to jobs, affordable housing and quality schools is making government data user friendly and easily transformed into meaningful tools that help people solve challenges in their everyday lives.</p>
+    </div>
+    <div class="usa-width-one-third" style="text-align: center;"> 
+    <span class="fa-stack fa-5x" style="color:#205493;">
+        <!--<i class="fa fa-circle-thin fa-stack-2x"></i>-->
+        <i class="fa fa-users fa-stack-1x"></i>
+      </span>
+      <h3 style="text-align: center;">Facilitating collaboration</h3>
+      
+
+      <!--<p class="usa-font-lead" style="text-align: center;">Engage in your community.</p>-->
+      <p class="ood-description" style="text-align: center;">By working together, Federal and local governments, technologists and advocates are catalyzing new solutions to some of our nation’s toughest challenges. 
+</p>
+    </div>
+  </div>
+
+
+</section>
+
+
+
+<!--
+
+    
+    <section  id="featured" class="ood-alt" style="background-color:#112e51;">
+  <div class="usa-grid-full">
+  <h1 style="text-align: center; padding-top:25px;" class="white">Featured Projects:</h1>
+    <div class="third-container clearfix">
+      <img src ="img/featured_projects_placeholder.png">
+      </div>
+  </div>
+
+
+</section>
+-->
+<!-- CODE FOR BODY STARTS HERE -->
+  <div class="">
+
+  <div class="background-styling">
+      <div class="usa-grid">
+        <div class="usa-width-one-whole page-content-header-text">
+          <div class="">
+            <h1>Featured Projects</h1>
+            <h3>Learn about tools built by participating teams</h3>
+          </div>
+        </div>
+      </div>
+
+      <div class="page-content-header-images usa-grid">
+        <div>
+          <div class="usa-width-one-third">
+            <a href="http://opportunity.pairin.com"><img src="https://raw.githubusercontent.com/jmeisel/TOPassets/master/Pairin%20Personal.png"></a>
+          </div>
+
+          <div class="usa-width-one-third">
+            <a href="https://labs.redfin.com/opportunity-score"><img src="http://opportunity.census.gov/img/data-consumers/redfin.jpg"></a>
+          </div>
+
+          <div class="usa-width-one-third">
+            <a href="https://findyour.town"><img src="https://raw.githubusercontent.com/jmeisel/TOPassets/master/Ovela%20Screenshot.PNG"></a>    
+          </div>
+        </div>
+      </div>
+  </div>
+
+
+      
+    </div>
+      <br>
+      <br>
+      <br>
+
+  <!-- CODE FOR BODY ENDS HERE -->
+
+ <section class="ood" id="howitworks"  style="background-color:#DDE8ED;">
+      <div class="usa-grid-full" style="background-color:#DDE8ED;">
+  <h1 style="text-align: center;">How The Opportunity Project Works</h1>
+      
+      
+<div class="usa-width-one-whole" style="background-color:#DDE8ED;" >
+     
+        <div class="third-container" style="background-color:#DDE8ED;">
+      <div class="usa-width-one-whole ood-nav">
+    
+  
+    
+    <div class="usa-width-one-third background-image-overlay1 clearfix" >
+      <img src="img/venndiagram.jpg">
+    </div>
+        
+
+    <div class="usa-width-two-thirds background-image-overlay2 ">
+      
+        <p class="usa-font-lead" style="text-align: left;">Federal and local governments provide access to curated open data sets and articulate priority challenges facing communities around the country.</p>
+      
+              <p class="usa-font-lead" style="text-align: left;">Equipped these new data resources and information, technologists, subject matter experts, and community leaders leverage the Opportunity Project as a platform to contribute to the user-centered development of new digital solutions.</p>
+      
+              <p class="usa-font-lead" style="text-align: left;">Opportunity Project tools are improving communities by helping unemployed people find skills and jobs, increasing transit accessibility, and helping families find affordable housing in safe neighborhoods with access to quality schools.    
+</p>  
+        </div>
+    
+  </div>
+          </div>
+      
+
+    </div>
+        <h2 style="color:#205493;">Whether you are from a technology company, local leader, federal employee or university, you can help increase access to opportunity for all Americans.</em></h2>  
+        </div>
+  </section>
+
+   <div class="usa-grid">
+  <h3>Learn More</h3>
+
+  <p>read about us.</p>
+       <ul class="usa-unstyled-list">
+    <li>
+     <a href="https://www.whitehouse.gov/the-press-office/2016/03/07/fact-sheet-white-house-launches-opportunity-project-utilizing-open-data">White House Fact Sheet March 2016</a>
+    </li>
+         <li>
+     <a href="#">White House Fact Sheet October 2016</a>
+    </li>
+         <li>
+     <a href="#">Video from launch</a>
+    </li> 
+         <li>
+     <a href="https://medium.com/presidential-innovation-fellows/what-we-learned-from-the-opportunity-project-cf648d671c61#.vjgcp6qjq">Medium Post</a>
+    </li>
+         
+  </ul>
+</div>
+
+
+
+
+    </main>
+
+    <section class="ood" id="helpusbuild" style="background-color:#112e51;">
+  <div class="usa-grid" style="background-color:#112e51;"></div>
+    <div class="usa-grid-full" style="background-color:#112e51;">
+       <div class="usa-width-one-whole" style="background-color:#112e51;" >
+    
+    
+  <div class="usa-width-five-sixths" style="background-color:#112e51;  padding:15px 45px; ">
+    <h2 class="white">Want to help us build the next version of the Opportunity Project?</h2>
+        </div>
+        <div class="usa-width-one-sixth" style="background-color:#112e51; padding:15px 45px;">
+      <h2 class="white"><a href="http://eepurl.com/cd6yor"
+         class="usa-button usa-button-outline usa-button-big" style=" float:right;">Join Us!</a></h2>
+        </div>
+         </div>
+          </div>
+  </section>
+<footer class="usa-footer usa-footer-medium usa-sans usa-background-dark">
+  <div class="usa-footer-secondary_section">
+    <div class="usa-grid-full">
+      <div class="usa-footer-logo usa-width-two-thirds">
+        <a href="https://www.census.gov"
+           ><img class="usa-footer-logo-img"
+                 src="img/logos/census.png"
+                 alt="Census Bureau Logo"></a>
+        <a href="http://www.hud.gov"
+           ><img class="usa-footer-logo-img"
+                 src="img/logos/hud.png"
+                 alt="HUD Logo"></a>
+        <a href="https://www.commerce.gov"
+           ><img class="usa-footer-logo-img"
+                 src="img/logos/commerce.png"
+                 alt="Commerce Logo"></a>
+        <a href="https://presidentialinnovationfellows.gov"
+           ><img class="usa-footer-logo-img"
+                 src="img/logos/pif.png"
+                 alt="PIF Logo"></a>
+      </div>
+
+      <div class="usa-footer-contact-links usa-width-one-third">
+        <h3 class="usa-footer-contact-heading">The Opportunity Project</h3>
+        <p>
+          <a href="http://www.census.gov/privacy/">Data Protection and Privacy Policy</a>
+          <br>
+          <a href="http://opportunity.census.gov">http://opportunity.census.gov</a>
+          <br>
+          <a href="https://github.com/uscensusbureau/opportunity">Visit on GitHub<i class="fa fa-github fa-fw"></i></a>
+        </p>
+      </div>
+    </div>
+  </div>
+</footer>
+
+    	
+<!--<script src="https://code.jquery.com/jquery-3.1.1.min.js"   integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="   crossorigin="anonymous"></script>-->
+
+<script src="designstandards/assets/js/vendor/jquery-1.11.3.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.0.5/handlebars.min.js"></script>
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+<script src="js/uswds.min.js"></script>
+<script src="designstandards/assets/js/components.js"></script>
+<script src="https://unpkg.com/isotope-layout@3.0/dist/isotope.pkgd.min.js"></script>
+<script type="text/javascript" src="js/jquery.mixitup.min.js"></script>
+<script src="js/main.js"></script>
+
+
+<script type="text/javascript" src="../js/HandlebarsCode/galleryCode.js"></script>
+<script src="js/filter.js"></script>
+
+<script src="js/federated-analytics-min.js?agency=DOC&subagency=CEN&gwt_uaid:UA-44450756-1" id="_fed_an_ua_tag"></script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                           m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+                           })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-67722639-4', 'auto');
+  ga('send', 'pageview');
+</script>
+
+
+  </body>
+
+</html>
