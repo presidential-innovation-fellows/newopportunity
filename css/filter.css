@@ -442,10 +442,12 @@
   border-style: solid;
   border-width: 2px;
   border-color: black;
+  width: 280px;
+  height: 200px;
 }
 
 .panel-design p {
-  height: 100px;
+  height: 125px;
 }
 
 .filters-div {
@@ -471,6 +473,10 @@
 
 .grid-filler {
   width: 11.17215%;
+}
+
+.gallery-header-text h1 {
+  text-align: center;
 }
 
 .usa-button-outline.button-style {

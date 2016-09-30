@@ -12,6 +12,17 @@ $(document).ready( function(){
 
 });
 
+$('button.showAll').click(function() {
+  if ($('div.blankDiv').hasClass('mix') === true) {
+    $('div.blankDiv').removeClass('mix');
+  }
+})
+
+$('button.otherFilters').click(function() {
+  if ($('div.blankDiv').hasClass('mix') === false) {
+    $('div.blankDiv').addClass('mix');
+  }
+})
 
 
 // external js: isotope.pkgd.js
