@@ -1,29 +1,56 @@
+//Using MixItUp
+
+$(document).ready( function(){
+
+  // Instantiate MixItUp:
+
+  $('#Container').mixItUp({ 
+    load: {
+      filter: 'all'
+    }
+  });
+
+});
+
+$('button.showAll').click(function() {
+  if ($('div.blankDiv').hasClass('mix') === true) {
+    $('div.blankDiv').removeClass('mix');
+  }
+})
+
+$('button.otherFilters').click(function() {
+  if ($('div.blankDiv').hasClass('mix') === false) {
+    $('div.blankDiv').addClass('mix');
+  }
+})
+
+
 // external js: isotope.pkgd.js
 
 // init Isotope
-var $grid = $('.grid').isotope({
-  itemSelector: '.element-item',
-  layoutMode: 'fitRows'
-});
+// var $grid = $('.grid').isotope({
+//   itemSelector: '.element-item',
+//   layoutMode: 'fitRows'
+// });
 
 
 
-var filterFns = {
+// var filterFns = {
  
   // show if name ends with -ium
-  ium: function() {
-    var name = $(this).find('.name').text();
-    return name.match( /ium$/ );
-  }
-};
+//   ium: function() {
+//     var name = $(this).find('.name').text();
+//     return name.match( /ium$/ );
+//   }
+// };
 
 // bind filter button click
-$('.filters-button-group').on( 'click', 'button', function() {
-  var filterValue = $( this ).attr('data-filter');
+// $('.filters-button-group').on( 'click', 'button', function() {
+//   var filterValue = $( this ).attr('data-filter');
   // use filterFn if matches value
-  filterValue = filterFns[ filterValue ] || filterValue;
-  $grid.isotope({ filter: filterValue });
-});
+//   filterValue = filterFns[ filterValue ] || filterValue;
+//   $grid.isotope({ filter: filterValue });
+// });
 
 
 
