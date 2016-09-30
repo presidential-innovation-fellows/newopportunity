@@ -105,81 +105,9 @@
 
   <body >
 
-  <header >  
-  <a class="usa-skipnav" href="#main-content">Skip to main content</a>
-  <div class="ood-nav">
-    <div class="usa-nav-container">
-      <div class="usa-navbar">
-        <button class="usa-menu-btn">Menu</button>
-        <div class="usa-logo" id="logo">
-          <em class="usa-logo-text">
-            <a href="#" accesskey="1" title="Home" aria-label="Home">The Opportunity Project</a>
-          </em>
-        </div>
-      </div>
-      <nav role="navigation" class="usa-nav">
-        <button class="usa-nav-close">
-          <img src="designstandards/assets/img/close.svg" alt="close">
-        </button>
-        <ul class="usa-nav-primary usa-accordion">
-          <li>
-            <a href="index.html"><button class="
-             usa-nav-link" aria-expanded="false">
-              <span>Home</span>
-            </button></a>
-            
-          </li>
-          <li>
-            <a href="about.html">
-              <button class="usa-nav-link" aria-expanded="false">
-              <span>Learn More</span>
-              </button></a>
-            
-          </li>
-          <li>
-            <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="sidenav-2">
-              <span><a href="tools.html">Use the Tools</a></span>
-            </button>
-            <!--<ul id="sidenav-2" class="usa-nav-submenu">
-              <li>
-                <a href="tools.html#federalagency">Federal Agency Cohort</a>
-              </li>
-              <li>
-                <a href="tools.html#fall16">Fall 2016 Cohort</a>
-              </li>
-              <li>
-                <a href="tools.html#spring16">Spring 2016 Cohort</a>
-              </li>
-            </ul>-->
-          </li>
-          <li>
-            <a class="usa-nav-link" href="data.html">
-              <span>See the Data</span>
-            </a>
-          </li>
-          <li>
-            <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="sidenav-2">
-              <span>Join Us</span>
-            </button>
-            <ul id="sidenav-2" class="usa-nav-submenu">
-              <li>
-                <a href="http://eepurl.com/cd6yor">Join our Mailing List</a>
-              </li>
-              <li>
-                <a href="https://opportunity-slack.herokuapp.com">Join us on Slack </a>
-              </li>
-              <li>
-                <a href="https://github.com/uscensusbureau/opportunity">Join us on Github title</a>
-              </li>
-            </ul>
-          </li>
-          
-        </ul>
-       
-      </nav>
-    </div>
-    </div>
-  </header>
+  <script type="text/x-handlebars-template" id="header-template">
+    {{> header }}
+  </script>
 
 
         <div class="usa-grid-full">
@@ -235,49 +163,21 @@
 
     </main>
 
-    <footer class="usa-footer usa-footer-medium usa-sans usa-background-dark">
-  <div class="usa-footer-secondary_section">
-    <div class="usa-grid-full">
-      <div class="usa-footer-logo usa-width-two-thirds">
-        <a href="https://www.census.gov"
-           ><img class="usa-footer-logo-img"
-                 src="img/logos/census.png"
-                 alt="Census Bureau Logo"></a>
-        <a href="http://www.hud.gov"
-           ><img class="usa-footer-logo-img"
-                 src="img/logos/hud.png"
-                 alt="HUD Logo"></a>
-        <a href="https://www.commerce.gov"
-           ><img class="usa-footer-logo-img"
-                 src="img/logos/commerce.png"
-                 alt="Commerce Logo"></a>
-        <a href="https://presidentialinnovationfellows.gov"
-           ><img class="usa-footer-logo-img"
-                 src="img/logos/pif.png"
-                 alt="PIF Logo"></a>
-	<h3><a href="http://www.census.gov/privacy/">Data Protection and Privacy Policy</a></h3>
-      </div>
-
-      <div class="usa-footer-contact-links usa-width-one-third">
-        <h3 class="usa-footer-contact-heading">The Opportunity Project</h3>
-        <p>
-          <a href="http://opportunity.census.gov">http://opportunity.census.gov</a>
-          <br>
-          <a href="https://github.com/uscensusbureau/opportunity">Visit on GitHub<i class="fa fa-github fa-fw"></i></a>
-        </p>
-      </div>
-    </div>
-  </div>
-</footer>
+  <script type="text/x-handlebars-template" id="footer-template">
+    {{> footer }}
+  </script>
 
 
     <script src="designstandards/assets/js/vendor/jquery-1.11.3.min.js"></script>
     <script src="designstandards/assets/js/vendor/uswds.min.js"></script>
     <script src="designstandards/assets/js/components.js"></script>
     
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.0.5/handlebars.min.js"></script>
     <script src="https://unpkg.com/isotope-layout@3.0/dist/isotope.pkgd.min.js"></script>
     <script src="js/main.js"></script>
-    <script src="js/filter.js"></script>
+    <script type="text/javascript" src="js/HandlebarsCode/headerCode.js"></script>
+    <script type="text/javascript" src="js/HandlebarsCode/footerCode,js"></script>
+    
     
     
     <script src="js/federated-analytics-min.js?agency=DOC&subagency=CEN&gwt_uaid:UA-44450756-1"

@@ -32,24 +32,17 @@ Handlebars.registerPartial('header',
  '                 '  + 
  '             </li>  '  + 
  '             <li>  '  + 
- '               <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="sidenav-2">  '  + 
- '                 <span><a href="tools.html">Use the Tools</a></span>  '  + 
- '               </button>  '  + 
- '               <!--<ul id="sidenav-2" class="usa-nav-submenu">  '  + 
- '                 <li>  '  + 
- '                   <a href="tools.html#federalagency">Federal Agency Cohort</a>  '  + 
- '                 </li>  '  + 
- '                 <li>  '  + 
- '                   <a href="tools.html#fall16">Fall 2016 Cohort</a>  '  + 
- '                 </li>  '  + 
- '                 <li>  '  + 
- '                   <a href="tools.html#spring16">Spring 2016 Cohort</a>  '  + 
- '                 </li>  '  + 
- '               </ul>-->  '  + 
+ '               <a href="feature.html">  '  + 
+ '                 <button class="usa-nav-link" aria-expanded="false">  '  + 
+ '                 <span>Use The Tools</span>  '  + 
+ '                 </button></a>  '  + 
+ '                 '  +  
  '             </li>  '  + 
  '             <li>  '  + 
  '               <a class="usa-nav-link" href="data.html">  '  + 
+ '                 <button class="usa-nav-link" aria-expanded="false">  '  +
  '                 <span>See the Data</span>  '  + 
+ '                 </button>' +
  '               </a>  '  + 
  '             </li>  '  + 
  '             <li>  '  + 
