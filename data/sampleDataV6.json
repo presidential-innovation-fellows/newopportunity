@@ -121,7 +121,7 @@
     "Title": "Fitbit",
     "Owner": "Fitbit",
     "Category": "health",
-    "Short-Message": "Lets users see how average activity relates to common health issues in each state, combining CDC health data with aggregated and anonymous Fitbit activity data.",
+    "Short-Message": "Lets users see how average activity relates to common health issues in each state, combining CDC health data with aggregated and anonymous Fitbit activity data from over 10 million users.",
     "Image-File": "https://raw.githubusercontent.com/jmeisel/TOPassets/master/Fitbit.png",
     "Gallery-Link": "#",
     "ClearDiv": ""
