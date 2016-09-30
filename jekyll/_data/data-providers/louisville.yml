@@ -1,0 +1,638 @@
+name: "Louisville"
+url: "http://portal.louisvilleky.gov/service/data"
+datasets:
+ - topic: "Animal Tag Data"
+   description: "List of all animals processed by Animal Services."
+   url: "http://portal.louisvilleky.gov/dataset/animaltag-data"
+
+ - topic: "Daily LMDC Population Snapshots"
+   description: "Daily snapshots of inmates held in Louisville Metro Department of Correction facilities"
+   url: "http://portal.louisvilleky.gov/dataset/average_daily_population-data"
+
+ - topic: "Crime Data"
+   description: "Crime data is provided for Louisville Metro Police Divisions only; crime data does not include smaller class cities."
+   url: "http://portal.louisvilleky.gov/dataset/crimedataall-data"
+
+ - topic: "Animal Services Outcomes Data"
+   description: "Louisville Metro Animal Services is committed to increasing openness and transparency of government. This raw data from our operations database includes historical information about the outcomes of animals who are no longer included in the inventory."
+   url: "http://portal.louisvilleky.gov/dataset/animal-services-outcomes-data"
+
+ - topic: "Property Management Case Inspections"
+   description: "Property Management Case Inspections"
+   url: "http://portal.louisvilleky.gov/data/propertycaseinspections"
+
+ - topic: "Employee Salary Data"
+   description: "Contains all salary data for Metro government employees from 2008 to Present."
+   url: "http://portal.louisvilleky.gov/dataset/salary-data"
+
+ - topic: "Animal Service Intake and Outcome Data"
+   description: "List of all instances of animals brought into Animal Services with outcomes. This is the source data for the number of animals taken in by Animal Services and the number of animals transferred out of Animal Services."
+   url: "http://portal.louisvilleky.gov/dataset/animal_io_data"
+
+ - topic: "Expenditures Data"
+   description: "Includes all expenditures by agency, with additional data including funding source, vendor name, and amount invoiced. Data from 2008 to Present."
+   url: "http://portal.louisvilleky.gov/dataset/expenditures-data"
+
+ - topic: "Inspections"
+   description: "Attributes of routine and complaint driven inspections performed by Louisville Metro Department of Public Health and Wellness.  EstablishmentID column can be joined to the EstablishmentID column in the Establishments Table to show attributes of the Establishment when a regulated establishment is involved."
+   url: "http://portal.louisvilleky.gov/dataset/Inspections-data"
+
+ - topic: "Restaurant Inspection Scores"
+   description: "Restaurant inspection dates, grades, scores and locations for the past year for all establishments."
+   url: "http://portal.louisvilleky.gov/dataset/restaurant-inspection-data"
+
+ - topic: "Construction Review - All Permits"
+   description: "All permits issued by Construction Review department."
+   url: "http://portal.louisvilleky.gov/dataset/crAllPermits-data"
+
+ - topic: "Construction Review - Active Permits"
+   description: "All permits issued by Develop Louisville department."
+   url: "http://portal.louisvilleky.gov/dataset/crActivePermits-data"
+
+ - topic: "Complaints"
+   description: "Attributes of Public Health related complaints reported by the public and investigated by Louisville Metro Department of Public Health and Wellness. Personal/identifying data has been removed. EstID column can be joined to the EstablishmentID column in the Establishments table to show attributes of the establishment when a regulated establishment is involved."
+   url: "http://portal.louisvilleky.gov/dataset/complaints-data"
+
+ - topic: "Expenditures Data"
+   description: "Includes all expenditures by agency, with additional data including funding source, vendor name, and amount invoiced. Data from 2008 to Present."
+   url: "http://portal.louisvilleky.gov/dataset/expenditures-data"
+
+ - topic: "Animal Services Transfer"
+   description: "The number of animals transferred out of a Metro Animal Services facility in a month"
+   url: "http://portal.louisvilleky.gov/dataset/animalservicetransfer-data"
+
+ - topic: "Booking Reports"
+   description: "Events which are being held, in what complex, what the function is, time and date, the customer, and who the maintains the field/park."
+   url: "http://portal.louisvilleky.gov/dataset/booking_report-data"
+
+ - topic: "ABC License Data and other location based licenses"
+   description: "Listing of all active ABC licenses including the name of the establishment, type of license, location and more. Homeless Shelter, Pawn Broker, Outdoor Advertising"
+   url: "http://portal.louisvilleky.gov/dataset/license-data"
+
+ - topic: "Parks Golf Sales Detail"
+   description: "Metro Park's golf sales detail broken down daily by Item, Fee, and Deposit."
+   url: "http://portal.louisvilleky.gov/dataset/ParksGolfSalesDetail-data"
+
+ - topic: "Animal Bites"
+   description: "Attributes of animal bite incidents reported to and investigated by Louisville Metro Department of Public Health and Wellness. Personal/identifying data has been removed."
+   url: "http://portal.louisvilleky.gov/dataset/animal_bites-data"
+
+ - topic: "APCD Gasoline Dispensing Construction Permits"
+   description: "APCD Gasoline Dispensing Construction Permits"
+   url: "http://portal.louisvilleky.gov/dataset/GasConstPermits-data"
+
+ - topic: "Animal Services Inventory Data"
+   description: "Louisville Metro Animal Services is committed to increasing openness and transparency of government. This is raw data from our operations database about each of the animals currently listed in the inventory, including lost and found pet reports from the public."
+   url: "http://portal.louisvilleky.gov/dataset/animal-services-inventory-data"
+
+ - topic: "Fire Incidents"
+   description: "Fire Incidents"
+   url: "http://portal.louisvilleky.gov/dataset/fireincident-data"
+
+ - topic: "Park Locations and Amenities"
+   description: "Listing of all parks with address, contact information and amenities available at each location."
+   url: "http://portal.louisvilleky.gov/dataset/park-data"
+
+ - topic: "Assaulted Officers"
+   description: "Incidents of Officers assaulted by individuals since 2010"
+   url: "http://portal.louisvilleky.gov/dataset/AssaultedOfficers-data"
+
+ - topic: "LiHEAP Appointment Data"
+   description: "LiHEAP Appointment Data"
+   url: "http://portal.louisvilleky.gov/dataset/csr_liheap-data"
+
+ - topic: "Fire Response"
+   description: "Fire Response"
+   url: "http://portal.louisvilleky.gov/dataset/fireresponse-data"
+
+ - topic: "HR Requisition Log"
+   description: "A database listing all job requisitions for Metro Government positions handled by the Human Resources Recruitment Division, including current status."
+   url: "http://portal.louisvilleky.gov/dataset/hrrequisitionlog-data"
+
+ - topic: "Establishments"
+   description: "Attributes of establishments that are currently inspected by and/or regulated by Louisville Metro Government.  Personal/identifying data has been removed.  EstablishmentID column can be joined to the EstablishmentID column in the Inspections table to show attributes of any inspections of the establishment."
+   url: "http://portal.louisvilleky.gov/dataset/establishments-data"
+
+ - topic: "Expenditures Data"
+   description: "Includes all expenditures by agency, with additional data including funding source, vendor name, and amount invoiced. Data from 2008 to Present."
+   url: "http://portal.louisvilleky.gov/dataset/establishments-data"
+
+ - topic: "Boarding and Cleaning Cases Resolved"
+   description: "The total number of cases resolved for the boarding, cleaning and cutting of vacant and abandoned properties."
+   url: "http://portal.louisvilleky.gov/dataset/bccasesresolved-data"
+
+ - topic: "Building Code Permit Enforcement Cases"
+   description: "Building Code Permit Enforcement Cases"
+   url: "http://portal.louisvilleky.gov/dataset/permit1-data"
+
+ - topic: "APCD Open Burning Permits"
+   description: "Open Burning Permits"
+   url: "http://portal.louisvilleky.gov/dataset/burnpermits-data"
+
+ - topic: "Uniform Citation Data"
+   description: " A list of all uniform citations from the Louisville Metro Police Department, including case number, date, location, divison beat, demographics, statutes and charges, and UCR codes."
+   url: "http://portal.louisvilleky.gov/dataset/uniformcitation-data"
+
+ - topic: "Fire Department Fuel Usage"
+   description: "Gallons of fuel used each month."
+   url: "http://portal.louisvilleky.gov/dataset/firefuelusage-data"
+
+ - topic: "Metro Parks Program Registration List"
+   description: "Metro Parks Program Registration List"
+   url: "http://portal.louisvilleky.gov/dataset/parks_program_registration-data"
+
+ - topic: "Boards & Commissions Data"
+   description: "Data used by PVA in their analysis of construction changes to business and residences."
+   url: "http://portal.louisvilleky.gov/dataset/crPVAReport-data"
+
+ - topic: "Construction Review - PVA Report"
+   description: "Includes all expenditures by agency, with additional data including funding source, vendor name, and amount invoiced. Data from 2008 to Present."
+   url: "http://portal.louisvilleky.gov/dataset/expenditures-data"
+
+ - topic: "Animal Services Intake"
+   description: "The number of animals that Metro Animal Services takes in during a month."
+   url: "http://portal.louisvilleky.gov/dataset/animalservices-data"
+
+ - topic: "Noise Citation Management"
+   description: "Codes and Regulations Noise Citation Management"
+   url: "http://portal.louisvilleky.gov/dataset/noisecitation-data"
+
+ - topic: "Licenses Issued"
+   description: "The number of licenses issued by Metro Animal Services each month"
+   url: "http://portal.louisvilleky.gov/dataset/animallicense-data"
+
+ - topic: "APCD Industrial Construction Permits"
+   description: "APCD Industrial Construction Permits"
+   url: "http://portal.louisvilleky.gov/dataset/IndusConPermits-data"
+
+ - topic: "Code Enforcement Board"
+   description: "Code Enforcement Board"
+   url: "http://portal.louisvilleky.gov/dataset/codeenforcementboard-data"
+
+ - topic: "LIHEAP Daily Schedule Report"
+   description: "List of clients based upon site entered and date from the LIHEAP Appointment Database - Provides the ability to schedule appointments for general public clients to meet with LIHEAP staff.  Provides reports, employee performance metrics, manages appointment time-slots per location."
+   url: "http://portal.louisvilleky.gov/dataset/LiheapDailyScheduleReport-data"
+
+ - topic: "APCD Gasoline Dispensing Operating Permits"
+   description: "APCD Gasoline Dispensing Operating Permits"
+   url: "http://portal.louisvilleky.gov/dataset/GasDispOpPermit-data"
+
+ - topic: "PDS Case History"
+   description: "Planning and Design"
+   url: "http://portal.louisvilleky.gov/dataset/PDSCaseHistory-data"
+
+ - topic: "Metro Staff Demographics by Zip"
+   description: "Metro Staff Demographics by Zip - Human Resources"
+   url: "http://portal.louisvilleky.gov/dataset/MetroStaffDemoZip-data"
+
+ - topic: "Bank Branches Data"
+   description: "List of Bank Branches participating in the Bank On Louisville Program"
+   url: "http://portal.louisvilleky.gov/dataset/bank-branches-data"
+
+ - topic: "APCD Industrial Operating Permits"
+   description: "APCD Industrial Operating Permits"
+   url: "http://portal.louisvilleky.gov/dataset/industrialoperations-data"
+
+ - topic: "Average Hospital Turnaround Time"
+   description: "The time from arrival of an EMS unit at a hospital to its departure time."
+   url: "http://portal.louisvilleky.gov/dataset/hospitalrun-data"
+
+ - topic: "Closed ABC Cases"
+   description: "ABC Cases: Codes and Regs"
+   url: "http://portal.louisvilleky.gov/dataset/abccases-data"
+
+ - topic: "Boarding and Cleaning Requests Received"
+   description: "The total number of request received for the boarding, cleaning and cutting of vacant and abandoned properties."
+   url: "http://portal.louisvilleky.gov/dataset/boardingandcleaningrequests-data"
+
+ - topic: "LIHEAP Report Range for Clients Scheduled"
+   description: "Daily Schedule Report that you can run for a period of time based on Start/End date - from LIHEAP Appointment Database. Provides the ability to schedule appointments for general public clients to meet with LIHEAP staff.  Provides reports, employee performance metrics, manages appointment time-slots per location."
+   url: "http://portal.louisvilleky.gov/dataset/liheaprangescheduledclients-data"
+
+ - topic: "Metro Staff Demographics By Ethnicity, Gender, and Education"
+   description: "Metro Staff Demographics By Ethnicity, Gender, and Education - Human Resources."
+   url: "http://portal.louisvilleky.gov/dataset/metrostaffdemo-data"
+
+ - topic: "Construction Review - LGE Inspections"
+   description: "A dataset that is delivered to LG&E to determine when and where upcoming inspections will be performed."
+   url: "http://portal.louisvilleky.gov/dataset/lge-inspections"
+
+ - topic: "Boarding And Cleaning Monthly Backlog"
+   description: "Boarding And Cleaning Monthly Backlog: Code and Regulations."
+   url: "http://portal.louisvilleky.gov/dataset/boardingandcleaningmonthlybacklog-data"
+
+ - topic: "Community Partners Data"
+   description: "Bank on Louisville's Community Partners."
+   url: "http://portal.louisvilleky.gov/dataset/community-partners-data"
+
+ - topic: "Civilian Fire Injuries"
+   description: "Civilian Fire Injuries"
+   url: "http://portal.louisvilleky.gov/dataset/firecivilinjury-data"
+
+ - topic: "Inspection Violations"
+   description: "Descriptions of violations recorded during inspections by Louisville Metro Department of Public Health and Wellness."
+   url: "http://portal.louisvilleky.gov/dataset/InspectionViolations-data"
+
+ - topic: "ZIP Codes"
+   description: "ZIP Code Areas within Louisville Metro. "
+   url: "http://portal.louisvilleky.gov/dataset/zip-codes"
+
+ - topic: "Urban Neighborhoods"
+   description: "Urban Neighborhood Boundaries within Louisville Metro. Boundaries as defined in late 70s as part of a Federal grant and are still used today."
+   url: "http://portal.louisvilleky.gov/dataset/urban-neighborhoods"
+
+ - topic: "Site Addresses"
+   description: "Develop Louisville: Site Addresses"
+   url: "http://portal.louisvilleky.gov/dataset/siteaddresses-data"
+
+ - topic: "Louisville Metro Police Department Police Districts"
+   description: "Police District boundaries for Louisville Metro."
+   url: "http://portal.louisvilleky.gov/dataset/louisville-metro-police-department-police-districts"
+
+ - topic: "Urban Renewal Districts"
+   description: "Develop Louisville: Urban Renewal Districts"
+   url: "http://portal.louisvilleky.gov/dataset/urd-data"
+
+ - topic: "LMPD Employee Characteristics"
+   description: "LMPD employee characteristic data including Race, Gender, Current Age, Date Hired, Education Level, Job Title and Assigned Division."
+   url: "http://portal.louisvilleky.gov/dataset/lmpdcharacter-data"
+
+ - topic: "LIHEAP Employee Report"
+   description: "Shows how many clients were scheduled per employee - from LIHEAP Appointment Database Provides the ability to schedule appointments for general public clients to meet with LIHEAP staff.  Provides reports, employee performance metrics, manages appointment time-slots per location."
+   url: "http://portal.louisvilleky.gov/dataset/liheapemployeereport-data"
+
+ - topic: "External Monitoring Visits with Findings"
+   description: "Count of all audits and monitoring visits with findings during reporting period."
+   url: "http://portal.louisvilleky.gov/dataset/externalmonitoring-data"
+
+ - topic: "Bike Route Data"
+   description: "Quickly map bike routes in and around Louisville."
+   url: "http://portal.louisvilleky.gov/dataset/bike-route-data"
+
+ - topic: "Fire Building/Business Inspections"
+   description: "Fire Inspection: Louisville Fire"
+   url: "http://portal.louisvilleky.gov/dataset/firebusinspections-data"
+
+ - topic: "Fire Home Inspection"
+   description: "Fire Home Inspection: Louisville Fire"
+   url: "http://portal.louisvilleky.gov/dataset/firehomeinspection-data"
+
+ - topic: "Warning Siren Areas"
+   description: "Warning Siren Coverage Areas within Louisville Metro."
+   url: "http://portal.louisvilleky.gov/dataset/warning-siren-areas"
+
+ - topic: "Metro Council Districts"
+   description: "Louisville Metro Council Districts"
+   url: "http://portal.louisvilleky.gov/dataset/metro-council-districts"
+
+ - topic: "Street Centerline"
+   description: "Develop Louisville: Street Centerline"
+   url: "http://portal.louisvilleky.gov/dataset/streetcenter-data"
+
+ - topic: "U.S. Congressional Districts"
+   description: "U.S. Congressional Districts boundaries within Louisville Metro."
+   url: "http://portal.louisvilleky.gov/dataset/us-congressional-districts"
+
+ - topic: "Suburban Fire Districts"
+   description: "Fire District boundaries for Louisville Metro Suburban areas."
+   url: "http://portal.louisvilleky.gov/dataset/suburban-fire-districts"
+
+ - topic: "Urban Fire Districts"
+   description: "Urban Fire Districts within Louisville Metro."
+   url: "http://portal.louisvilleky.gov/dataset/urban-fire-districts"
+
+ - topic: "Yelp Data"
+   description: "Listing of geocoded businesses, inspections for those businesses, and health violations for those businesses,  used as a feed to Yelp."
+   url: "http://portal.louisvilleky.gov/dataset/yelp-data"
+
+ - topic: "Buildings"
+   description: "Building footprints from 2012 in Jefferson County. The Buildings (BG) layer consists of photogrammetrically interpreted polygons representing roof outlines of manmade structures in Jefferson County, Kentucky."
+   url: "http://portal.louisvilleky.gov/dataset/buildings-data"
+
+ - topic: "Emergency Warning Sirens"
+   description: "Locations of Emergency warning sirens in Louisville."
+   url: "http://portal.louisvilleky.gov/dataset/emergency-warning-sirens"
+
+ - topic: "Urban Tree Canopy Assessment"
+   description: "The following information was produced from the 2015 Urban Tree Canopy Assessment for the City of Louisville, KY sponsored by the Office of Sustainability."
+   url: "http://portal.louisvilleky.gov/dataset/utcdata"
+
+ - topic: "School Board Districts"
+   description: "Jefferson County School Board Districts and Anchorage Public School District."
+   url: "http://portal.louisvilleky.gov/dataset/school-districts"
+
+ - topic: "Expenditures Data"
+   description: "Includes all expenditures by agency, with additional data including funding source, vendor name, and amount invoiced. Data from 2008 to Present."
+   url: "http://portal.louisvilleky.gov/dataset/expenditures-data"
+
+ - topic: "APCD Asbestos Removal Permits"
+   description: "APCD Asbestos Removal Permits: Air Pollution Control"
+   url: "http://portal.louisvilleky.gov/dataset/AsbestosRemPermit-data"
+
+ - topic: "Municipalities"
+   description: "Municipalities within Louisville Metro.  Provided by Kentucky Secretary of State's Land Records office."
+   url: "http://portal.louisvilleky.gov/dataset/municipalities"
+
+ - topic: "Fire Property Damage"
+   description: "Fire Property Damage: Louisville Fire"
+   url: "http://portal.louisvilleky.gov/dataset/firepropertyloss-data"
+
+ - topic: "Account Breakdown by Program Area"
+   description: "A monthly summary for the number of cases where financial services were provided and total funding spent by funding source and program area."
+   url: "http://portal.louisvilleky.gov/dataset/care_allaccounts-data"
+
+ - topic: "Snow Routes"
+   description: "Snow routes for Louisville Metro."
+   url: "http://portal.louisvilleky.gov/dataset/snow-routes"
+
+ - topic: "State Senatorial Districts"
+   description: "Kentucky Senatorial Districts within Louisville Metro."
+   url: "http://portal.louisvilleky.gov/dataset/state-senatorial-districts"
+
+ - topic: "IDIS PR56 – CDBG Timeliness Report"
+   description: "Analyzes rate of committing and distributing funds to determine if we will me timeliness guidelines. From Integrated Disbursement and Information System (IDIS) - A mandatory system used to track projects funded by HUD grants (CDBG, ESG, HOPWA and HOME funds)."
+   url: "http://portal.louisvilleky.gov/dataset/IDIS_PR_56-data"
+
+ - topic: "State Legislative Districts"
+   description: "Kentucky Legislative Districts within Louisville Metro."
+   url: "http://portal.louisvilleky.gov/dataset/state-legislative-districts"
+
+ - topic: "Solid Waste Management Route Data"
+   description: "SWMS Division"
+   url: "http://portal.louisvilleky.gov/dataset/routes_not_five_seven-data"
+
+ - topic: "Neighborhood Place Areas"
+   description: "Neighborhood place districts for Louisville Metro."
+   url: "http://portal.louisvilleky.gov/dataset/neighborhood-place-areas"
+
+ - topic: "Meals Served Summary"
+   description: "Shows a summary of the number of meals served and delivered for any given time period. This report is submitted to the business office for reimbursement from the state."
+   url: "http://portal.louisvilleky.gov/dataset/mealsservedsummary-data"
+
+ - topic: "Downtown Public Parking"
+   description: "This contains public parking facilites in downtown Louisville that are owned and managed by the Parking Authoring of River City (PARC), Riverside Parking, System Parking and many others."
+   url: "http://portal.louisvilleky.gov/dataset/downtown_public_parking-data"
+
+ - topic: "On-Street Parking Citation Collections"
+   description: "Comparing monthly data: citations issued, citations collected, voids and citations sent to collection."
+   url: "http://portal.louisvilleky.gov/dataset/parccollections-data"
+
+ - topic: "IDIS PR27 – Status of HOME Grants Report"
+   description: "Financial information on the HOME grant.  This helps us analyze our rate of committing and distributing funds to determine if we will meet timeliness guidelines. From Integrated Disbursement and Information System (IDIS)."
+   url: "http://portal.louisvilleky.gov/dataset/IDIS_PR_27-data"
+
+ - topic: "Officer Involved Shooting Database and Statistical Analysis"
+   description: "Officer Involved Shooting Database and Statistical Analysis"
+   url: "http://portal.louisvilleky.gov/dataset/ois-data"
+
+ - topic: "Return of Spontaneous Circulation"
+   description: "A person who has no pulse at the time of EMS arrival and EMS paramedics are able to return a pulse for 2 minutes or more."
+   url: "http://portal.louisvilleky.gov/dataset/ems_rosc-data"
+
+ - topic: "Traffic Collisions in Kentucky Annual Reports"
+   description: "This external link displays all the annual reports for traffic collisons in the Commonwealth of Kentucky."
+   url: "http://portal.louisvilleky.gov/dataset/traffic-collisions-data"
+
+ - topic: "Property Available for Purchase"
+   description: "Properties that are for sale from the Landbank, Urban Renewal and limited Metro-owned parcels."
+   url: "http://portal.louisvilleky.gov/dataset/csrpropertydisposition-data"
+
+ - topic: "State Snow Routes"
+   description: "State snow routes for Louisville Metro."
+   url: "http://portal.louisvilleky.gov/dataset/state-snow-routes"
+
+ - topic: "Abandoned Urban Property"
+   description: "Inventory held over 1 year includes data for properties NOT owned or controlled by Metro."
+   url: "http://portal.louisvilleky.gov/dataset/abandonedurbanproperty-data"
+
+ - topic: "IDIS PR 22 – Status of HOME Activities"
+   description: "The current status of HOME activities by program year and includes committed amount and drawn amount. This is a quick reference to see the status of HOME activities for a given year and is a quick glance to see what activities are ready to close."
+   url: "http://portal.louisvilleky.gov/dataset/IDIS_PR_22-data"
+
+ - topic: "Sidewalk Repair Request Data"
+   description: "Rating, linear footage, and repair status for sidewalk repair requests."
+   url: "http://portal.louisvilleky.gov/dataset/sidewalkrepairbacklog"
+
+ - topic: "Community Ministries Areas"
+   description: "Community Ministries Areas in Louisville."
+   url: "http://portal.louisvilleky.gov/dataset/community-ministries-areas"
+
+ - topic: "Scenic Corridors Parkways"
+   description: "Scenic Corridors Parkways"
+   url: "http://portal.louisvilleky.gov/dataset/scp-data"
+
+ - topic: "Community Ministries Sites"
+   description: "Listing of Community Ministries locations and information. "
+   url: "http://portal.louisvilleky.gov/dataset/community-ministries-series"
+
+ - topic: "Foreclosures Initiated"
+   description: "Count of vacant/abandoned properties on which Metro has initiated a foreclosure."
+   url: "http://portal.louisvilleky.gov/dataset/csropenforeclosure-data"
+
+ - topic: "Residential and commercial recycling tonnage and diversion rate"
+   description: "Residential and commercial main stream rolling 4-year average recycling tonnage and diversion rate."
+   url: "http://portal.louisvilleky.gov/dataset/recyclingrate-data"
+
+ - topic: "Water Bodies"
+   description: "Bodies of water in Jefferson County"
+   url: "http://portal.louisvilleky.gov/dataset/water_body-data"
+
+ - topic: "Historic Areas"
+   description: "Data from the Metro Landmarks Commission, Kentucky Heritage Council, and National Register of Historic Places about National Historic Landmarks in Jefferson County, Kentucky."
+   url: "http://portal.louisvilleky.gov/dataset/historic_area-data"
+
+ - topic: "Traffic Signs"
+   description: "Sign inventory in Jefferson County."
+   url: "http://portal.louisvilleky.gov/dataset/traffic_sign-data"
+
+ - topic: "Development Funds Unspent Over 24 Months"
+   description: "Development Funds Unspent Over 24 Months . Sum of money in relevant LeAP cost centers that were funded  greater than 24 months before the report date."
+   url: "http://portal.louisvilleky.gov/dataset/csrdevfundsnotexpended"
+
+ - topic: "Emergency Home Repairs Over 30 Days"
+   description: "Emergency Home Repairs Requiring Over 30 Days to Complete . Number of cases starting during month with >30 days from completed app to repairs complete (or current date if open)."
+   url: "http://portal.louisvilleky.gov/dataset/csremergencyhomerepair"
+
+ - topic: "Vehicle Break-in's in PARC Facilities"
+   description: "The total number of vehicle break-ins monthly at PARC facilities."
+   url: "http://portal.louisvilleky.gov/dataset/parcvehiclebreakins-data"
+
+ - topic: "Historic Markers"
+   description: "Historic markers for historic sites in Jefferson County.  Data is provided to LOJIC from the Kentucky Historical Society."
+   url: "http://portal.louisvilleky.gov/dataset/historic_markers-data"
+
+ - topic: "Cemeteries"
+   description: "Active and inactive cemeteries in Jefferson County."
+   url: "http://portal.louisvilleky.gov/dataset/cemeteries-data"
+
+ - topic: "Natural Areas"
+   description: "Map of 'Natural Areas' in Louisville Metro including (but not limited to) Conservation Easements, State Preserves and Parks, Municipal Parks, the Community Improvement District in Jefferson and Bullitt Counties, Bird Santuaries and Historical Preservation Easements."
+   url: "http://portal.louisvilleky.gov/dataset/natural_areas-data"
+
+ - topic: "On-Street Parking Citation Revenue"
+   description: " Compare monthly citation data against dollar amount of citations collected vs. dollar amount of issued citations."
+   url: "http://portal.louisvilleky.gov/dataset/parconstreetrevenue-data"
+
+ - topic: "Metro and Olmsted Parks"
+   description: "Metro Park and Olmsted boundaries."
+   url: "http://portal.louisvilleky.gov/dataset/metro_parks-data"
+
+ - topic: "IDIS PR 02 List of Activities by Program Year and Project"
+   description: "A snapshot of all activities (open, completed, and cancelled) by program year and project. This report will show us the funded amount, drawn amount and the current balance of each activity."
+   url: "http://portal.louisvilleky.gov/dataset/IDIS_PR_02-data"
+
+ - topic: "Spot Heights"
+   description: "Point feature class that comprises the photogrammetrically compiled Spot Heights (SH) for Jefferson County, Kentucky. All elevations are in U.S. Feet and cast on the North American Vertical Datum (NAVD) of 1988."
+   url: "http://portal.louisvilleky.gov/dataset/spot_height-data"
+
+ - topic: "Volunteer Demographic"
+   description: "Basic demographics of volunteers from Volunteer Works Volunteer management system that records volunteer man-hours and payrate, site locations, contact information for volunteers and site."
+   url: "http://portal.louisvilleky.gov/dataset/volunteerdemographic-data"
+
+ - topic: "Railroads"
+   description: "The Railroad (RR) layer consist of photogrammetrically interpreted polylines representing various active and abandoned railroad features as well as railroad yards, spur lines and railroad bridges."
+   url: "http://portal.louisvilleky.gov/dataset/railroad-data"
+
+ - topic: "Jefferson County Signalized Intersections"
+   description: "Listing of all traffic signal control devices in Jefferson County (except for a handful of signals in the J-town area that we don't own, operate or maintain).  This includes both Metro and State owned traffic signals."
+   url: "http://portal.louisvilleky.gov/dataset/signals-data"
+
+ - topic: "Vegetation Lines"
+   description: "Tree areas in Jefferson County."
+   url: "http://portal.louisvilleky.gov/dataset/vegetation_line-data"
+
+ - topic: "Streams"
+   description: "Streams in Jefferson County."
+   url: "http://portal.louisvilleky.gov/dataset/stream-data"
+
+ - topic: "Volunteer by Site"
+   description: "Volunteers by site location from Volunteer Works - Volunteer management system that records volunteer man-hours and payrate, site locations, contact information for volunteers and site."
+   url: "http://portal.louisvilleky.gov/dataset/csrcolunteerbysite-data"
+
+ - topic: "CARE Denials"
+   description: "Summary count of denial reasons documented from CARE - a Data collection system used by the Family Assessment and Support Services program areas to document the requests for information & referral and the case management of clients."
+   url: "http://portal.louisvilleky.gov/dataset/care-denied-outcomes"
+
+ - topic: "Metro Parks Volunteer Service Log"
+   description: "The number of volunteer hours tracked monthly at various locations and events throughout the Metro Parks system."
+   url: "http://portal.louisvilleky.gov/dataset/metroparkvolunteerlog"
+
+ - topic: "Recreation Areas"
+   description: "The Recreation Areas layer consists of photogrammetrically interpreted polygons representing various features related to recreational activities such as tennis courts, playgrounds, ball fields, golf courses and swimming pools in Jefferson County, Kentucky."
+   url: "http://portal.louisvilleky.gov/dataset/recreation_area-data"
+
+ - topic: "Senior Nutrition Waiting List"
+   description: "Client waitlist scores to know which client needs to be added to the service next. - - from SERVTracker - a data collection system to track Senior Nutrition clients, both congregate and Home-delivered."
+   url: "http://portal.louisvilleky.gov/dataset/senior-nutrition-waitinglist-data"
+
+ - topic: "Metro Parks Volunteer Project Log"
+   description: "Project listing of every volunteer project since the conception of the metro parks volunteer coordinator position in 2005 till the end of  the previous fiscal year."
+   url: "http://portal.louisvilleky.gov/dataset/metroparks-volunteer-projects-data"
+
+ - topic: "On-Street Parking Meter Repairs"
+   description: "Recorded action performed by shop personnel on all report malfunctioning meters."
+   url: "http://portal.louisvilleky.gov/dataset/parkingmeterrepair-data"
+
+ - topic: "LMPD Hate Crime"
+   description: "Data is subset of the Incident data provided by the open data portal. This data specifically identifies crimes that meet the elements outlined under the FBI Hate crimes program."
+   url: "http://portal.louisvilleky.gov/dataset/liheap-demographics"
+
+ - topic: "LIHEAP Demographics"
+   description: "A complete record of all LIHEAP clients based upon specified Start/End date and Status (Approved, Denied, Pending, All Statuses) including but not limited to total benefit, first/last name, age, race, disability, address, client who processed, application number, application date/time submitted, income, etc."
+   url: "http://portal.louisvilleky.gov/dataset/expenditures-data"
+
+ - topic: "Alleys"
+   description: "Alleys in Jefferson County."
+   url: "http://portal.louisvilleky.gov/dataset/alleys-data"
+
+ - topic: "Olmsted Parkways"
+   description: "Olmsted Parkways including Eastern, Southern, Northwestern, Southwestern, and Algonquin."
+   url: "http://portal.louisvilleky.gov/dataset/olmstead_parkways-data"
+
+ - topic: "SPP Report"
+   description: "Client intake system for Monetary Applications paid to various different vendors as well as LIHEAP Subsidy/Crisis payments paid to LG&E, financial reconciliation with OMB and LeAP."
+   url: "http://portal.louisvilleky.gov/dataset/spp_report"
+
+ - topic: "CARE Outcomes"
+   description: "Summary count of all outcomes documented. Summary count of denial reasons documented from CARE - a Data collection system used by the Family Assessment and Support Services program areas to document the requests for information & referral and the case management of clients."
+   url: "http://portal.louisvilleky.gov/dataset/care-outcomes"
+
+ - topic: "ALL Checks"
+   description: "CSR (now develop louisville + community Services):  Reflects the funding source used for payments and how much total payments were from CARE - a Data collection system used by the Family Assessment and Support Services program areas to document the requests for information & referral and the case management of clients."
+   url: "http://portal.louisvilleky.gov/dataset/AllChecks-data"
+
+ - topic: "Needs"
+   description: "Amount received and reason for payment from CARE - a Data collection system used by the Family Assessment and Support Services program areas to document the requests for information &amp; referral and the case management of clients."
+   url: "http://portal.louisvilleky.gov/dataset/needs-data"
+
+ - topic: "Sustainability Plan Project Recommendations"
+   description: "Develop Louisville: Sustainability Plan Project Recommendations"
+   url: "http://portal.louisvilleky.gov/dataset/SustainabilityPlan-data"
+
+ - topic: "Application Reports"
+   description: "Shows client, application, benefit amount, etc. - from CASTiNET - Client intake system for Monetary Applications paid to various different vendors as well as LIHEAP Subsidy/Crisis payments paid to LG&E, financial reconciliation with OMB and LeAP."
+   url: "http://portal.louisvilleky.gov/dataset/Castinet-application-report"
+
+ - topic: "Vision Louisville Public Input"
+   description: "Economic Development: Vision Louisville Public Input"
+   url: "http://portal.louisvilleky.gov/dataset/visionpublicinput-data"
+
+ - topic: "Care Reimbursements"
+   description: "SSI reimbursements received for a given time period broken down by client’s name and transaction credited from CARE - a Data collection system used by the Family Assessment and Support Services program areas to document the requests for information & referral and the case management of clients."
+   url: "http://portal.louisvilleky.gov/dataset/care-reimbursement"
+
+ - topic: "Metro Demolitions"
+   description: "Develop Louisville: Metro Demolitions"
+   url: "http://portal.louisvilleky.gov/dataset/metrodemolitions1-data"
+
+ - topic: "Louisville Streets - Right of Way"
+   description: "ESRI-based Gis shape files that contain all Jefferson County streets and 'right of way' information."
+   url: "http://portal.louisvilleky.gov/dataset/street-right-of-way-data"
+
+ - topic: "National Register Historic Districts"
+   description: "Develop Louisville: National Register Historic Districts"
+   url: "http://portal.louisvilleky.gov/dataset/nrhd-data"
+
+ - topic: "Olmsted Parkways"
+   description: "Develop Louisville: Olmsted Parkways"
+   url: "http://portal.louisvilleky.gov/dataset/olmstead-data"
+
+ - topic: "Zoning"
+   description: "Zoning contains the zoning districts within Louisville Metro that govern permitted land use, density and intensity of allowed development."
+   url: "http://portal.louisvilleky.gov/dataset/zoning-data"
+
+ - topic: "National Emissions Inventory"
+   description: "Emissions inventories: emissions reported by regulated facilities and modeled emissions from vehicles, smaller sources, wildfires, etc. Can select data by pollutant and/or geography, then download the resulting data set."
+   url: "http://portal.louisvilleky.gov/dataset/nei-data"
+
+ - topic: "Land Use"
+   description: "Develop Louisville: Land use maps."
+   url: "http://portal.louisvilleky.gov/dataset/landuse-data"
+
+ - topic: "AirNow API"
+   description: "Air quality forecasts and raw air monitoring data (not quality-assured) for ozone and particulates. Can programmatically access raw air monitoring data for ozone and particulates and air quality forecasts."
+   url: "http://portal.louisvilleky.gov/dataset/airnowapi-data"
+
+ - topic: "Form Districts"
+   description: "Form Districts are areas with distinct boundaries to which a set of regulations governing the pattern and form of development and redevelopment applies."
+   url: "http://portal.louisvilleky.gov/dataset/formdistrict-data"
+
+ - topic: "Historic Property"
+   description: "Develop Louisville: Historic Property"
+   url: "http://portal.louisvilleky.gov/dataset/historic-data"
+
+ - topic: "Zoning Overlay Districts"
+   description: "Zoning Overlay Districts contain areas that have increased development guidelines."
+   url: "http://portal.louisvilleky.gov/dataset/zoneover-data"
+
+ - topic: "Plan Certain Areas"
+   description: "Plan Certain Areas are areas of rezoning where the Planning Commission or legislative body may designate, at the time of approval, elements and restrictions of the approved plan that are an integral part of the development plan and binding them to the use and development of the subject property."
+   url: "http://portal.louisvilleky.gov/dataset/planareas-data"
+
+ - topic: "Subdivisions"
+   description: "Subdivisions are boundaries of recorded subdivisions within Louisville Metro."
+   url: "http://portal.louisvilleky.gov/dataset/sub-data"
+
+ - topic: "Landmarks Preservation Districts"
+   description: "Develop Louisville: Landmarks Preservation Districts"
+   url: "http://portal.louisvilleky.gov/dataset/landmarks-data"

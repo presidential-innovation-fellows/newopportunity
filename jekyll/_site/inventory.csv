@@ -1,0 +1,413 @@
+provider_name,provider_url,category,description,url
+"Baltimore",https://data.baltimorecity.gov,"Parcels and addresses","Arrests",https://data.baltimorecity.gov/Public-Safety/BPD-Arrests/3i3v-ibrt
+"Baltimore",https://data.baltimorecity.gov,"Permits","Propertise with permits obtained for work exceeding $50,000",https://data.baltimorecity.gov/Housing-Development/Permit-Activity/k6m8-62kn
+"Baltimore",https://data.baltimorecity.gov,"Permits","Housing permits",https://data.baltimorecity.gov/Housing-Development/Housing-Permits/fesm-tgxf
+"Baltimore",https://data.baltimorecity.gov,"Code enforcement","Environmental code violations",https://data.baltimorecity.gov/City-Services/Minimum-ECB-Citation-Fine-by-Violation/zfsz-qp5z
+"Baltimore",https://data.baltimorecity.gov,"Publicly owned land","Park locations",https://data.baltimorecity.gov/Culture-Arts/Parks/3r8a-uawz
+"Baltimore",https://data.baltimorecity.gov,"Publicly owned land","Culture and arts data sets",https://data.baltimorecity.gov/browse?category=Culture%20%26%20Arts
+"Baltimore",https://data.baltimorecity.gov,"Publicly owned land","Vacant buildings",https://data.baltimorecity.gov/Housing-Development/Vacant-Buildings/qqcv-ihn5
+"Baltimore",https://data.baltimorecity.gov,"Crime","Public safety data sets",https://data.baltimorecity.gov/browse?category=Public%20Safety
+"Baltimore",https://data.baltimorecity.gov,"311","City services",https://data.baltimorecity.gov/browse?category=City%20Services
+"Baltimore",https://data.baltimorecity.gov,"311","311 service requests",https://data.baltimorecity.gov/City-Services/311-Customer-Service-Requests/9agw-sxsr
+"Baltimore",https://data.baltimorecity.gov,"Transit","Transportation data sets",https://data.baltimorecity.gov/browse?category=Transportation
+"Baltimore",https://data.baltimorecity.gov,"Preschool/daycare","Child family health and wellbeing data sets",https://data.baltimorecity.gov/Neighborhoods/Children-and-Family-Health-Well-Being-2010-Shape/873b-4xqf
+"Baltimore",https://data.baltimorecity.gov,"Schools","2010-2013 school data",https://data.baltimorecity.gov/Neighborhoods/Education-and-Youth-2010-2013-/f9ua-ivaj
+"Baltimore",https://data.baltimorecity.gov,"Privately owned assets","Restaurants",https://data.baltimorecity.gov/Culture-Arts/Restaurants/k5ry-ef3g
+"Baltimore",https://data.baltimorecity.gov,"Zoning","Zoning boundaries",https://data.baltimorecity.gov/Geographic/Zoning-Boundary/idqa-6rg3
+"Chattanooga",https://data.chattlibrary.org,"311","311 service requests",https://data.chattlibrary.org/Government/311-Service-Requests/9iep-6yhz
+"Chattanooga",https://data.chattlibrary.org,"Addresses","Address points for all city addresses",https://data.chattlibrary.org/Government/Address-Data/rz29-uyu4
+"Chattanooga",https://data.chattlibrary.org,"Community Survey","Summary results from 2012-2015 community survey",https://data.chattlibrary.org/Government/Community-Survey-Results/ere3-r58x
+"Chattanooga",https://data.chattlibrary.org,"Parcels","Parcels with assessor data",https://data.chattlibrary.org/Government/Parcels/nk97-ybhg
+"Chattanooga",https://data.chattlibrary.org,"Permits","All city permits",https://data.chattlibrary.org/browse?sortBy=relevance&tags=blds&utf8=%E2%9C%93
+"Washington, DC",https://opendata.dc.gov,"Parcels and addresses","Snow removal route",http://opendata.dc.gov/datasets/a0491c3eb8224c1a99a3552a0c1d97ed_20
+"Washington, DC",https://opendata.dc.gov,"Permits","Construction permits",http://opendata.dc.gov/datasets/fc7da7bd29d4493481b17d032e117d09_0
+"Washington, DC",https://opendata.dc.gov,"Publicly owned land","DC Parks",http://opendata.dc.gov/datasets/287eaa2ecbff4d699762bbc6795ffdca_9
+"Washington, DC",https://opendata.dc.gov,"Publicly owned land","National parks",http://opendata.dc.gov/datasets/14eb1c6b576940c7b876ebafb227febe_10
+"Washington, DC",https://opendata.dc.gov,"Publicly owned land","Recreational facilities",http://opendata.dc.gov/datasets/7122c1c815314588abe5c1864da8a355_3
+"Washington, DC",https://opendata.dc.gov,"Crime/Public Safety","Crime homepage",http://opendata.dc.gov/datasets?keyword=safety
+"Washington, DC",https://opendata.dc.gov,"Crime/Public Safety","Incidents last 30 days",http://opendata.dc.gov/datasets/dc3289eab3d2400ea49c154863312434_8
+"Washington, DC",https://opendata.dc.gov,"Homelessness","Service facilities",http://opendata.dc.gov/datasets/47be87a68e7a4376a3bdbe15d85de398_6
+"Washington, DC",https://opendata.dc.gov,"Homelessness","Shelter locations",http://opendata.dc.gov/datasets/87c5e68942304363a4578b30853f385d_25
+"Washington, DC",https://opendata.dc.gov,"311","Service requests last 30 days",http://opendata.dc.gov/datasets/14faf3d4bfbe4ca4a713bf203a985151_0
+"Washington, DC",https://opendata.dc.gov,"Transit","Main page",http://opendata.dc.gov/datasets?keyword=transportation
+"Washington, DC",https://opendata.dc.gov,"Transit","Signed bike routes",http://opendata.dc.gov/datasets/0a0ff97967fb413b91d5cf444ed82fce_6
+"Washington, DC",https://opendata.dc.gov,"Transit","Circulator routes",http://opendata.dc.gov/datasets/850232079ec241d187828ed1bf079123_55
+"Washington, DC",https://opendata.dc.gov,"Preschool/daycare","Child care locations",http://opendata.dc.gov/datasets/3be17159eb9d4339975e619ecd101a23_2
+"Washington, DC",https://opendata.dc.gov,"Schools","Education data page",http://opendata.dc.gov/datasets?keyword=education
+"Washington, DC",https://opendata.dc.gov,"Schools","Public schools",http://opendata.dc.gov/datasets/4ac321b2d409438ebd76a6569ad94034_5
+"Washington, DC",https://opendata.dc.gov,"Privately owned assets","Supermarket locations",http://opendata.dc.gov/datasets/1d7c9d0e3aac49c1aa88d377a3bae430_4
+"Washington, DC",https://opendata.dc.gov,"Zoning","Zoning index",http://opendata.dc.gov/datasets?keyword=planning
+"Washington, DC",https://opendata.dc.gov,"Zoning","Planning landuse and zoning",http://opendata.dc.gov/datasets/7e36b5f8c97f440ab45e31dc58ea9471_12
+"Washington, DC",https://opendata.dc.gov,"Zoning","Supermarket tax credit zones",http://opendata.dc.gov/datasets/1c5d4b467eaa4301b976547c65cd7d06_24
+"Washington, DC",https://opendata.dc.gov,"Wireless/broadband access","Wireless hotspots",http://opendata.dc.gov/datasets/0a73011064ae4580a4a8539de03060d1_14
+"Washington, DC",https://opendata.dc.gov,"Wireless/broadband access","HUB Zones",http://opendata.dc.gov/datasets/3060b61b0f9c444dbbd873bfae5ffa16_21
+"Washington, DC",https://opendata.dc.gov,"Health services","Primary care facilities",http://opendata.dc.gov/datasets/018890d7399245759f05c7932261ef44_7
+"Washington, DC",https://opendata.dc.gov,"Health services","HIV/AIDS clinic",http://opendata.dc.gov/datasets/b24aa2b089e5431eb360458c44ca13b4_3
+"Detroit",https://data.detroitmi.gov,"Parcels and addresses","Property and parcels",https://data.detroitmi.gov/browse?category=Property+%26+Parcels
+"Detroit",https://data.detroitmi.gov,"Permits","Permits",https://data.detroitmi.gov/browse?q=permit
+"Detroit",https://data.detroitmi.gov,"Code enforcement","Blight violation locations",https://data.detroitmi.gov/Property-Parcels/Blight-Violations/teu6-anhh
+"Detroit",https://data.detroitmi.gov,"Publicly owned land","Parks",https://data.detroitmi.gov/Fun/Parks/6wcj-hkzq
+"Detroit",https://data.detroitmi.gov,"Publicly owned land","Vacant lot sales",https://data.detroitmi.gov/Government/DLBA-Side-Lot-Sales/ur7y-psks
+"Detroit",https://data.detroitmi.gov,"Publicly owned land","Public libraries",http://portal.datadrivendetroit.org/datasets/46321d4eac7c436d858ba64870c91075_0
+"Detroit",https://data.detroitmi.gov,"Crime","Public safety data sets",https://data.detroitmi.gov/browse?category=Public+Safety
+"Detroit",https://data.detroitmi.gov,"311","Submitted issues",https://data.detroitmi.gov/Government/Improve-Detroit-Submitted-Issues/6ynw-2fqn
+"Detroit",https://data.detroitmi.gov,"Transit","Bike lanes",http://portal.datadrivendetroit.org/datasets/4b886654a8d846a782658bd4712e7952_0
+"Detroit",https://data.detroitmi.gov,"Transit","Bus routes",http://portal.datadrivendetroit.org/datasets/259d33193b7044a48fbab295f20e404d_1
+"Detroit",https://data.detroitmi.gov,"Transit","Smart bus routes",http://portal.datadrivendetroit.org/datasets/399eabaac9c74790a682ab48c89aa129_0
+"Detroit",https://data.detroitmi.gov,"Preschool/daycare","Childcare locations (licensed or registered providers)",http://portal.datadrivendetroit.org/datasets/6e3dec15edc84212869d3d8802ac0a7c_0
+"Detroit",https://data.detroitmi.gov,"Schools","School locations",https://data.detroitmi.gov/Education/Schools/vidg-c4v6
+"Detroit",https://data.detroitmi.gov,"Schools","Schools with average commute",http://portal.datadrivendetroit.org/datasets/5d36a64150284a299c4808436de07a5d_0
+"Detroit",https://data.detroitmi.gov,"Privately owned assets","Hospitals",http://portal.datadrivendetroit.org/datasets/ea2551cfc5bf4e2ea7d065fb783f2129_0
+"Detroit",https://data.detroitmi.gov,"Privately owned assets","Full-line grocery stores",http://portal.datadrivendetroit.org/datasets/194bc647287f4e6b91c6401443845cce_0
+"Detroit",https://data.detroitmi.gov,"Privately owned assets","Churches",http://portal.datadrivendetroit.org/datasets/f6c93d04857c4bd4b0783867def3ccf5_0
+"Detroit",https://data.detroitmi.gov,"Privately owned assets","Recreation centers",http://portal.datadrivendetroit.org/datasets/8ee240e505cb493eaa63cf0c5c390d34_0
+"Detroit",https://data.detroitmi.gov,"Zoning","Detroit zoning",http://portal.datadrivendetroit.org/datasets/bbe90203edcd4c51af2f6c697ab5216c_0
+"Federal",https://data.gov,"DHS","Homeland Infrastructure Foundation-Level Data (HIFLD)",https://hifld-dhs-gii.opendata.arcgis.com/
+"Federal",https://data.gov,"HUD","School Proficiency Index",http://egis.hud.opendata.arcgis.com/datasets/70e2ed8dcb6c47ffa3414c275f62b72b_0
+"Federal",https://data.gov,"HUD","Low Poverty Index",http://egis.hud.opendata.arcgis.com/datasets/a4d78dc882bb456da6200b574bfb9e12_0
+"Federal",https://data.gov,"HUD","Jobs Proximity Index",http://egis.hud.opendata.arcgis.com/datasets/636ecbfb0ee5480ea5b68e65991e4815_0
+"Federal",https://data.gov,"HUD","Labor Market Index",http://egis.hud.opendata.arcgis.com/datasets/4cb7f61e90b84fe5a208d8ea587d11f3_0
+"Federal",https://data.gov,"HUD","Low Transportation Cost Index",http://egis.hud.opendata.arcgis.com/datasets/154f5e23fd7248a99b97fa92adc81b6c_0
+"Federal",https://data.gov,"HUD","Environmental Health Hazard Index",http://egis.hud.opendata.arcgis.com/datasets/53a856bef6f24356abee30653399e94a_0
+"Federal",https://data.gov,"HUD","Racially/ethnically concentrated areas of poverty (RECAP)",http://egis.hud.opendata.arcgis.com/datasets/320b8ab5d0304daaa7f1b8c03ff01256_0
+"Federal",https://data.gov,"HUD"," Promise Zones",http://egis.hud.opendata.arcgis.com/datasets/a10cbd9187a34bd2a28574a3cfe12e64_0
+"Federal",https://data.gov,"HUD","Choice Neighborhoods Grantees",http://egis.hud.opendata.arcgis.com/datasets/ec2691b3adba44b1a85596410d04933b_0
+"Federal",https://data.gov,"HUD","Strong Cities, Strong Communities Initiative Areas ("SC2")",http://egis.hud.opendata.arcgis.com/datasets/4b482877999e44ff96c377d5c1bc5b79_0
+"Federal",https://data.gov,"HUD","Sustainable Communities Regional Planning Grantees ("SCI")",http://egis.hud.opendata.arcgis.com/datasets/b0496a9daa8a4faab1efd2762ac6b9c1_0
+"Federal",https://data.gov,"DOT/HUD","Location Affordability Index",http://www.locationaffordability.info/lai.aspx?url=download.php
+"Federal",https://data.gov,"EPA","Smart Location Database",http://geodata.epa.gov/ArcGIS/rest/services/OA/SmartLocationDatabase/MapServer
+"Federal",https://data.gov,"EPA","Environmental Justice Screening and Mapping (EJSCREEN)",http://www.epa.gov/ejscreen/download-ejscreen-data
+"Federal",https://data.gov,"HHS","Locations of Federally Qualified Health Centers",http://findahealthcenter.hrsa.gov/#
+"Federal",https://data.gov,"HHS","Locations of Head Start Centers",http://eclkc.ohs.acf.hhs.gov/hslc/data/center-data
+"Federal",https://data.gov,"USDA","Locations of SNAP (food stamp)-approved retailers",http://www.fns.usda.gov/snap/retailerlocator
+"Federal",https://data.gov,"USDA","Food Distribution Program on Indian Reservation (FDPIR) sites",http://gis.ers.usda.gov/arcgis/rest/services/fa_assistance/MapServer/58
+"Federal",https://data.gov,"USDA","Locations of grocery stores",http://gis.ers.usda.gov/arcgis/rest/services/fa_stores/MapServer
+"Federal",https://data.gov,"USDA","Access and proximity to grocery stores",http://gis.ers.usda.gov/arcgis/rest/services/fa_access/MapServer
+"Federal",https://data.gov,"USDA","Local foods locations (e.g., farmers markets accepting WIC/SNAP; farms with direct sales)",http://gis.ers.usda.gov/arcgis/rest/services/fa_local/MapServer
+"Federal",https://data.gov,"USDA","County classifications (including rural urban spectrum and major industries)",http://gis.ers.usda.gov/arcgis/rest/services/ra_cntyclass/MapServer
+"Federal",https://data.gov,"USDA","Information on Rural Housing Service Active Housing Assistance investments",http://www.sc.egov.usda.gov/data/files/MFH_Section_515/ActiveProjects/mfhd_active_projects.csv
+"Federal",https://data.gov,"USDA","Aggregate Tenant Data on Active properties",http://www.sc.egov.usda.gov/data/files/MFH_Section_515/ActiveProjects/mfhd_tenant_info_All%20Properties.csv
+"Federal",https://data.gov,"USDA","All USDA Economic Research Service Geospatial APIs (for reference)",http://www.ers.usda.gov/developer/geospatial-apis.aspx
+"Federal",https://data.gov,"IMLS","Locations of museums",https://data.imls.gov/Museums-Count/Museum-Universe-Data-File-Map/2maj-yp6j
+"Federal",https://data.gov,"IMLS","Locations of public libraries",https://data.imls.gov/Public-Library-Survey-PLS-/Public-Library-Survey-Trend-File-1992-2012-Adminis/uzd7-qfwt
+"Federal",https://data.gov,"OMB","Promise Zones and other place based initiatives boundaries CSV (also available as JSON)",https://www.whitehouse.gov/omb/place/datasets
+"Federal",https://data.gov,"Census","LEHD Origin Destination Employment Statistics (LODES)",http://lehd.ces.census.gov/data/lodes/
+"Federal",https://data.gov,"Census","American Community Survey (ACS)",http://www2.census.gov/
+"Federal",https://data.gov,"Census","CitySDK - American Community Survey (ACS)",https://uscensusbureau.github.io/citysdk/
+"Federal",https://data.gov,"Census","Other Developer Resources",http://www.census.gov/developer
+"Federal",https://data.gov,"BLS","Quarterly Census of Employment and Wages",http://www.bls.gov/cew/opendata.htm
+"Federal",https://data.gov,"ED","ED Data Inventory",http://datainventory.ed.gov/InventoryList
+"Federal",https://data.gov,"ED","Civil Rights Data Collection",http://ocrdata.ed.gov/
+"Indianapolis",https://data.indy.gov,"Permits","Building permits",https://data.indy.gov/dataset/Building-Permits-BLDS-/sbki-cnjx
+"Indianapolis",https://data.indy.gov,"Code enforcement","Violations and investigations",https://data.indy.gov/view/7e5w-wmac
+"Indianapolis",https://data.indy.gov,"Crime","IMPD Citizen Complaints",https://data.indy.gov/dataset/IMPD-Citizen-Complaints/h8rn-gy8c
+"Indianapolis",https://data.indy.gov,"311","Service cases",https://data.indy.gov/dataset/Service-Cases/6djc-35s6
+"Kansas City",https://data.kcmo.org,"Parcels and addresses","Solid waste management",https://data.kcmo.org/Neighborhoods/Solid-Waste-Management-guide/bzka-3iad
+"Kansas City",https://data.kcmo.org,"Permits","2014 building permits",https://data.kcmo.org/Construction/2014-Building-Permit-Listing/qt6m-65bz
+"Kansas City",https://data.kcmo.org,"Code enforcement","Code violations",https://data.kcmo.org/view/mnjv-uy2z
+"Kansas City",https://data.kcmo.org,"Publicly owned land","Vacants",https://data.kcmo.org/Property/Land-Bank-Data/2ebw-sp7f
+"Kansas City",https://data.kcmo.org,"Crime","2014 Crime data",https://data.kcmo.org/Crime/crime-data/9u7z-x596
+"Kansas City",https://data.kcmo.org,"311","311 Call for service requests",https://data.kcmo.org/311/311-Call-Center-Service-Requests/7at3-sxhp
+"Kansas City",https://data.kcmo.org,"Transit","KCATA bus stops",https://data.kcmo.org/Transportation/KCATA-Bus-Stops/igyf-2355
+"Kansas City",https://data.kcmo.org,"Transit","Bike KC Survey results",https://data.kcmo.org/Transportation/Bike-KC-Survey-Results/739d-rt2i
+"Kansas City",https://data.kcmo.org,"Preschool","Daycare regulations",https://data.kcmo.org/Information-Bulletins/IB111-Daycare-Regulations/s6r5-78bk
+"Kansas City",https://data.kcmo.org,"Schools","School locations and attributes",https://data.kcmo.org/dataset/Schools/nwsj-d4dj
+"Kansas City",https://data.kcmo.org,"Privately owned assets","Resturants",https://data.kcmo.org/Food/Restaurants/apvm-9tkz
+"Kansas City",https://data.kcmo.org,"Zoning","Zoning code information",https://data.kcmo.org/Regulatory-Codes/Zoning-Development-Code-Guide/39ra-2csh
+"Los Angeles",https://data.lacity.org,"311","311 Data",https://performance.lacity.org/Government/311-Data/u7vv-5qst
+"Los Angeles",https://data.lacity.org,"311","311 Call Center Tracking Data",https://data.lacity.org/dataset/311-Call-Center-Tracking-Data/ukiu-8trj
+"Los Angeles",https://data.lacity.org,"Code enforcement","Building and Safety Code Enforcement Case",https://data.lacity.org/A-Safe-City/Building-and-Safety-Code-Enforcement-Case/2uz8-3tj3
+"Los Angeles",https://data.lacity.org,"Code enforcement","Listing of Active Businesses",https://data.lacity.org/A-Prosperous-City/Listing-of-Active-Businesses/6rrh-rzua
+"Los Angeles",https://data.lacity.org,"Crime","LA County Datasets, Criminal",https://data.lacounty.gov/browse?category=Criminal&limitTo=datasets&utf8=%E2%9C%93
+"Los Angeles",https://data.lacity.org,"Crime","Safe City Datasets",https://data.lacity.org/browse?category=A+Safe+City&limitTo=datasets&sortBy=relevance
+"Los Angeles",https://data.lacity.org,"Crime","LAPD Map Server",http://maps.lacity.org/lahub/rest/services/LAPD/MapServer
+"Los Angeles",https://data.lacity.org,"Crime","Public Safety Layers (LA County)",http://public.gis.lacounty.gov/public/rest/services/LACounty_Dynamic/LMS_Data_Public/MapServer/131
+"Los Angeles",https://data.lacity.org,"Employment","Work Source Centers Location And Contact Info",https://data.lacity.org/dataset/Work-Source-Centers-Location-And-Contact-Info/qq2n-4wfr
+"Los Angeles",https://data.lacity.org,"Health and environment","CalFresh SNAP Authorized Farmers Markets",https://data.lacounty.gov/Services/CalFresh-SNAP-Authorized-Farmers-Markets/u42d-bpik
+"Los Angeles",https://data.lacity.org,"Health and environment","Department of Mental Health (DMH) Provider Directory",https://data.lacounty.gov/Mental-Health/Department-of-Mental-Health-DMH-Provider-Directory/tedn-xr2r
+"Los Angeles",https://data.lacity.org,"Health and environment","Licensed Residential Facilities and/or Certified Alcohol and Drug Programs",https://chhs.data.ca.gov/Facilities-and-Services/Department-of-Health-Care-Services-DHCS-Licensed-R/rzbp-crfv
+"Los Angeles",https://data.lacity.org,"Health and environment","Women Infants and Children (WIC) Authorized Vendors",https://chhs.data.ca.gov/Facilities-and-Services/Women-Infants-and-Children-WIC-Authorized-Vendors/x5nq-b49e
+"Los Angeles",https://data.lacity.org,"Health and environment","Hospital Building Data",https://chhs.data.ca.gov/Facilities-and-Services/Hospital-Building-Data/x4kp-ag8p
+"Los Angeles",https://data.lacity.org,"Health and environment","California Health & Human Services Datasets",https://chhs.data.ca.gov/
+"Los Angeles",https://data.lacity.org,"Health and environment","Environment Layers (LA County)",http://public.gis.lacounty.gov/public/rest/services/LACounty_Dynamic/LMS_Data_Public/MapServer/57
+"Los Angeles",https://data.lacity.org,"Health and environment","Health & Mental Health Layers (LA County)",http://public.gis.lacounty.gov/public/rest/services/LACounty_Dynamic/LMS_Data_Public/MapServer/74
+"Los Angeles",https://data.lacity.org,"Homelessness","Point in Time Homeless Counts Results",http://www.lahsa.org/homeless-count/results
+"Los Angeles",https://data.lacity.org,"Housing","HCIDLA Affordable Housing Projects Catalog And Listing (2003 To Present)",https://data.lacity.org/A-Livable-and-Sustainable-City/HCIDLA-Affordable-Housing-Projects-Catalog-And-Lis/u4mj-cwbz
+"Los Angeles",https://data.lacity.org,"Housing","2015 Registered Foreclosure Properties",https://data.lacity.org/A-Well-Run-City/2015-Registered-Foreclosure-Properties/f37w-ye7d
+"Los Angeles",https://data.lacity.org,"Housing","Housing & Community Investment Service Locations",https://data.lacity.org/A-Livable-and-Sustainable-City/Housing-Community-Investment-Service-Locations/29cn-rph9
+"Los Angeles",https://data.lacity.org,"Housing","Housing and Community Investment Department Map Server",http://maps.lacity.org/lahub/rest/services/Housing_and_Community_Investment_Department/MapServer
+"Los Angeles",https://data.lacity.org,"Parcels and addresses","Parcels",http://data.lahub.opendata.arcgis.com/datasets/3b9f7696cd444b168ca6cf1726ae8420_5
+"Los Angeles",https://data.lacity.org,"Parcels and addresses","Landbase Information Map Server",http://maps.lacity.org/lahub/rest/services/Landbase_Information/MapServer
+"Los Angeles",https://data.lacity.org,"Parcels and addresses","Accessor Parcel Change File",https://data.lacounty.gov/Parcel-/Assessor-Parcel-Change-File/qju6-wpwm
+"Los Angeles",https://data.lacity.org,"Permits","Building and Safety Permit Information",https://data.lacity.org/A-Prosperous-City/Building-and-Safety-Permit-Information/yv23-pmwf
+"Los Angeles",https://data.lacity.org,"Permits","Bureau of Engineering Permit Information",https://data.lacity.org/A-Livable-and-Sustainable-City/Bureau-of-Engineering-Permit-Information/j7mw-thyc
+"Los Angeles",https://data.lacity.org,"Preschool/daycare","Child Care (LA County)",http://public.gis.lacounty.gov/public/rest/services/LACounty_Dynamic/LMS_Data_Public/MapServer/149
+"Los Angeles",https://data.lacity.org,"Publicly owned land","City Facilities",https://data.lacity.org/A-Well-Run-City/City-Facilities-Building-Book-/p4zb-k7qp
+"Los Angeles",https://data.lacity.org,"Publicly owned land","Library Branches",https://data.lacity.org/A-Livable-and-Sustainable-City/Library-Branches/a4nt-4gca
+"Los Angeles",https://data.lacity.org,"Publicly owned land","Department of Recreation and Parks' Facility and Park Information",https://data.lacity.org/A-Livable-and-Sustainable-City/Department-of-Recreation-and-Parks-Facility-and-Pa/ax8j-dhzm
+"Los Angeles",https://data.lacity.org,"Schools","Education layers (LA County)",http://public.gis.lacounty.gov/public/rest/services/LACounty_Dynamic/LMS_Data_Public/MapServer/43
+"Los Angeles",https://data.lacity.org,"Schools","Schools (LAUSD)",http://maps.lacity.org/lahub/rest/services/LAUSD_Schools/MapServer/0
+"Los Angeles",https://data.lacity.org,"Schools","School Districts (LA County)",http://public.gis.lacounty.gov/public/rest/services/LACounty_Dynamic/LMS_Data_Public/MapServer/52
+"Los Angeles",https://data.lacity.org,"Schools","School Garden Locations",https://performance.lacity.org/dataset/School-Garden-Locations-in-the-City-of-Los-Angeles/9tdc-tmjp
+"Los Angeles",https://data.lacity.org,"Transit","Metro Bus and Rail Map Server",http://maps.lacity.org/lahub/rest/services/Metro_Bus_and_Rail/MapServer
+"Los Angeles",https://data.lacity.org,"Transit","LADOT Map Server (Bikeways, Parking lots, Crosswalks and more)",http://maps.lacity.org/lahub/rest/services/LADOT/MapServer
+"Los Angeles",https://data.lacity.org,"Transit","Street Information Map Server",http://maps.lacity.org/lahub/rest/services/Street_Information/MapServer
+"Los Angeles",https://data.lacity.org,"Transit","Bike Count Data Clearing House",http://www.bikecounts.luskin.ucla.edu/
+"Los Angeles",https://data.lacity.org,"Transit","LADOT Traffic Counts Summary",https://data.lacity.org/A-Livable-and-Sustainable-City/LADOT-Traffic-Counts-Summary/94wu-3ps3
+"Los Angeles",https://data.lacity.org,"Zoning","Zoning reference table",https://data.lacity.org/A-Well-Run-City/Zoning-Reference-Table/ikdx-vgub
+"Los Angeles",https://data.lacity.org,"Zoning","City Planning Map Server",http://maps.lacity.org/lahub/rest/services/City_Planning_Department/MapServer
+"Louisville",http://portal.louisvilleky.gov/service/data,"Animal Tag Data","List of all animals processed by Animal Services.",http://portal.louisvilleky.gov/dataset/animaltag-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"Daily LMDC Population Snapshots","Daily snapshots of inmates held in Louisville Metro Department of Correction facilities",http://portal.louisvilleky.gov/dataset/average_daily_population-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"Crime Data","Crime data is provided for Louisville Metro Police Divisions only; crime data does not include smaller class cities.",http://portal.louisvilleky.gov/dataset/crimedataall-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"Animal Services Outcomes Data","Louisville Metro Animal Services is committed to increasing openness and transparency of government. This raw data from our operations database includes historical information about the outcomes of animals who are no longer included in the inventory.",http://portal.louisvilleky.gov/dataset/animal-services-outcomes-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"Property Management Case Inspections","Property Management Case Inspections",http://portal.louisvilleky.gov/data/propertycaseinspections
+"Louisville",http://portal.louisvilleky.gov/service/data,"Employee Salary Data","Contains all salary data for Metro government employees from 2008 to Present.",http://portal.louisvilleky.gov/dataset/salary-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"Animal Service Intake and Outcome Data","List of all instances of animals brought into Animal Services with outcomes. This is the source data for the number of animals taken in by Animal Services and the number of animals transferred out of Animal Services.",http://portal.louisvilleky.gov/dataset/animal_io_data
+"Louisville",http://portal.louisvilleky.gov/service/data,"Expenditures Data","Includes all expenditures by agency, with additional data including funding source, vendor name, and amount invoiced. Data from 2008 to Present.",http://portal.louisvilleky.gov/dataset/expenditures-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"Inspections","Attributes of routine and complaint driven inspections performed by Louisville Metro Department of Public Health and Wellness.  EstablishmentID column can be joined to the EstablishmentID column in the Establishments Table to show attributes of the Establishment when a regulated establishment is involved.",http://portal.louisvilleky.gov/dataset/Inspections-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"Restaurant Inspection Scores","Restaurant inspection dates, grades, scores and locations for the past year for all establishments.",http://portal.louisvilleky.gov/dataset/restaurant-inspection-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"Construction Review - All Permits","All permits issued by Construction Review department.",http://portal.louisvilleky.gov/dataset/crAllPermits-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"Construction Review - Active Permits","All permits issued by Develop Louisville department.",http://portal.louisvilleky.gov/dataset/crActivePermits-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"Complaints","Attributes of Public Health related complaints reported by the public and investigated by Louisville Metro Department of Public Health and Wellness. Personal/identifying data has been removed. EstID column can be joined to the EstablishmentID column in the Establishments table to show attributes of the establishment when a regulated establishment is involved.",http://portal.louisvilleky.gov/dataset/complaints-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"Expenditures Data","Includes all expenditures by agency, with additional data including funding source, vendor name, and amount invoiced. Data from 2008 to Present.",http://portal.louisvilleky.gov/dataset/expenditures-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"Animal Services Transfer","The number of animals transferred out of a Metro Animal Services facility in a month",http://portal.louisvilleky.gov/dataset/animalservicetransfer-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"Booking Reports","Events which are being held, in what complex, what the function is, time and date, the customer, and who the maintains the field/park.",http://portal.louisvilleky.gov/dataset/booking_report-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"ABC License Data and other location based licenses","Listing of all active ABC licenses including the name of the establishment, type of license, location and more. Homeless Shelter, Pawn Broker, Outdoor Advertising",http://portal.louisvilleky.gov/dataset/license-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"Parks Golf Sales Detail","Metro Park's golf sales detail broken down daily by Item, Fee, and Deposit.",http://portal.louisvilleky.gov/dataset/ParksGolfSalesDetail-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"Animal Bites","Attributes of animal bite incidents reported to and investigated by Louisville Metro Department of Public Health and Wellness. Personal/identifying data has been removed.",http://portal.louisvilleky.gov/dataset/animal_bites-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"APCD Gasoline Dispensing Construction Permits","APCD Gasoline Dispensing Construction Permits",http://portal.louisvilleky.gov/dataset/GasConstPermits-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"Animal Services Inventory Data","Louisville Metro Animal Services is committed to increasing openness and transparency of government. This is raw data from our operations database about each of the animals currently listed in the inventory, including lost and found pet reports from the public.",http://portal.louisvilleky.gov/dataset/animal-services-inventory-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"Fire Incidents","Fire Incidents",http://portal.louisvilleky.gov/dataset/fireincident-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"Park Locations and Amenities","Listing of all parks with address, contact information and amenities available at each location.",http://portal.louisvilleky.gov/dataset/park-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"Assaulted Officers","Incidents of Officers assaulted by individuals since 2010",http://portal.louisvilleky.gov/dataset/AssaultedOfficers-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"LiHEAP Appointment Data","LiHEAP Appointment Data",http://portal.louisvilleky.gov/dataset/csr_liheap-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"Fire Response","Fire Response",http://portal.louisvilleky.gov/dataset/fireresponse-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"HR Requisition Log","A database listing all job requisitions for Metro Government positions handled by the Human Resources Recruitment Division, including current status.",http://portal.louisvilleky.gov/dataset/hrrequisitionlog-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"Establishments","Attributes of establishments that are currently inspected by and/or regulated by Louisville Metro Government.  Personal/identifying data has been removed.  EstablishmentID column can be joined to the EstablishmentID column in the Inspections table to show attributes of any inspections of the establishment.",http://portal.louisvilleky.gov/dataset/establishments-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"Expenditures Data","Includes all expenditures by agency, with additional data including funding source, vendor name, and amount invoiced. Data from 2008 to Present.",http://portal.louisvilleky.gov/dataset/establishments-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"Boarding and Cleaning Cases Resolved","The total number of cases resolved for the boarding, cleaning and cutting of vacant and abandoned properties.",http://portal.louisvilleky.gov/dataset/bccasesresolved-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"Building Code Permit Enforcement Cases","Building Code Permit Enforcement Cases",http://portal.louisvilleky.gov/dataset/permit1-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"APCD Open Burning Permits","Open Burning Permits",http://portal.louisvilleky.gov/dataset/burnpermits-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"Uniform Citation Data"," A list of all uniform citations from the Louisville Metro Police Department, including case number, date, location, divison beat, demographics, statutes and charges, and UCR codes.",http://portal.louisvilleky.gov/dataset/uniformcitation-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"Fire Department Fuel Usage","Gallons of fuel used each month.",http://portal.louisvilleky.gov/dataset/firefuelusage-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"Metro Parks Program Registration List","Metro Parks Program Registration List",http://portal.louisvilleky.gov/dataset/parks_program_registration-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"Boards & Commissions Data","Data used by PVA in their analysis of construction changes to business and residences.",http://portal.louisvilleky.gov/dataset/crPVAReport-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"Construction Review - PVA Report","Includes all expenditures by agency, with additional data including funding source, vendor name, and amount invoiced. Data from 2008 to Present.",http://portal.louisvilleky.gov/dataset/expenditures-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"Animal Services Intake","The number of animals that Metro Animal Services takes in during a month.",http://portal.louisvilleky.gov/dataset/animalservices-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"Noise Citation Management","Codes and Regulations Noise Citation Management",http://portal.louisvilleky.gov/dataset/noisecitation-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"Licenses Issued","The number of licenses issued by Metro Animal Services each month",http://portal.louisvilleky.gov/dataset/animallicense-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"APCD Industrial Construction Permits","APCD Industrial Construction Permits",http://portal.louisvilleky.gov/dataset/IndusConPermits-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"Code Enforcement Board","Code Enforcement Board",http://portal.louisvilleky.gov/dataset/codeenforcementboard-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"LIHEAP Daily Schedule Report","List of clients based upon site entered and date from the LIHEAP Appointment Database - Provides the ability to schedule appointments for general public clients to meet with LIHEAP staff.  Provides reports, employee performance metrics, manages appointment time-slots per location.",http://portal.louisvilleky.gov/dataset/LiheapDailyScheduleReport-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"APCD Gasoline Dispensing Operating Permits","APCD Gasoline Dispensing Operating Permits",http://portal.louisvilleky.gov/dataset/GasDispOpPermit-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"PDS Case History","Planning and Design",http://portal.louisvilleky.gov/dataset/PDSCaseHistory-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"Metro Staff Demographics by Zip","Metro Staff Demographics by Zip - Human Resources",http://portal.louisvilleky.gov/dataset/MetroStaffDemoZip-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"Bank Branches Data","List of Bank Branches participating in the Bank On Louisville Program",http://portal.louisvilleky.gov/dataset/bank-branches-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"APCD Industrial Operating Permits","APCD Industrial Operating Permits",http://portal.louisvilleky.gov/dataset/industrialoperations-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"Average Hospital Turnaround Time","The time from arrival of an EMS unit at a hospital to its departure time.",http://portal.louisvilleky.gov/dataset/hospitalrun-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"Closed ABC Cases","ABC Cases: Codes and Regs",http://portal.louisvilleky.gov/dataset/abccases-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"Boarding and Cleaning Requests Received","The total number of request received for the boarding, cleaning and cutting of vacant and abandoned properties.",http://portal.louisvilleky.gov/dataset/boardingandcleaningrequests-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"LIHEAP Report Range for Clients Scheduled","Daily Schedule Report that you can run for a period of time based on Start/End date - from LIHEAP Appointment Database. Provides the ability to schedule appointments for general public clients to meet with LIHEAP staff.  Provides reports, employee performance metrics, manages appointment time-slots per location.",http://portal.louisvilleky.gov/dataset/liheaprangescheduledclients-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"Metro Staff Demographics By Ethnicity, Gender, and Education","Metro Staff Demographics By Ethnicity, Gender, and Education - Human Resources.",http://portal.louisvilleky.gov/dataset/metrostaffdemo-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"Construction Review - LGE Inspections","A dataset that is delivered to LG&E to determine when and where upcoming inspections will be performed.",http://portal.louisvilleky.gov/dataset/lge-inspections
+"Louisville",http://portal.louisvilleky.gov/service/data,"Boarding And Cleaning Monthly Backlog","Boarding And Cleaning Monthly Backlog: Code and Regulations.",http://portal.louisvilleky.gov/dataset/boardingandcleaningmonthlybacklog-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"Community Partners Data","Bank on Louisville's Community Partners.",http://portal.louisvilleky.gov/dataset/community-partners-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"Civilian Fire Injuries","Civilian Fire Injuries",http://portal.louisvilleky.gov/dataset/firecivilinjury-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"Inspection Violations","Descriptions of violations recorded during inspections by Louisville Metro Department of Public Health and Wellness.",http://portal.louisvilleky.gov/dataset/InspectionViolations-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"ZIP Codes","ZIP Code Areas within Louisville Metro. ",http://portal.louisvilleky.gov/dataset/zip-codes
+"Louisville",http://portal.louisvilleky.gov/service/data,"Urban Neighborhoods","Urban Neighborhood Boundaries within Louisville Metro. Boundaries as defined in late 70s as part of a Federal grant and are still used today.",http://portal.louisvilleky.gov/dataset/urban-neighborhoods
+"Louisville",http://portal.louisvilleky.gov/service/data,"Site Addresses","Develop Louisville: Site Addresses",http://portal.louisvilleky.gov/dataset/siteaddresses-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"Louisville Metro Police Department Police Districts","Police District boundaries for Louisville Metro.",http://portal.louisvilleky.gov/dataset/louisville-metro-police-department-police-districts
+"Louisville",http://portal.louisvilleky.gov/service/data,"Urban Renewal Districts","Develop Louisville: Urban Renewal Districts",http://portal.louisvilleky.gov/dataset/urd-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"LMPD Employee Characteristics","LMPD employee characteristic data including Race, Gender, Current Age, Date Hired, Education Level, Job Title and Assigned Division.",http://portal.louisvilleky.gov/dataset/lmpdcharacter-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"LIHEAP Employee Report","Shows how many clients were scheduled per employee - from LIHEAP Appointment Database Provides the ability to schedule appointments for general public clients to meet with LIHEAP staff.  Provides reports, employee performance metrics, manages appointment time-slots per location.",http://portal.louisvilleky.gov/dataset/liheapemployeereport-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"External Monitoring Visits with Findings","Count of all audits and monitoring visits with findings during reporting period.",http://portal.louisvilleky.gov/dataset/externalmonitoring-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"Bike Route Data","Quickly map bike routes in and around Louisville.",http://portal.louisvilleky.gov/dataset/bike-route-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"Fire Building/Business Inspections","Fire Inspection: Louisville Fire",http://portal.louisvilleky.gov/dataset/firebusinspections-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"Fire Home Inspection","Fire Home Inspection: Louisville Fire",http://portal.louisvilleky.gov/dataset/firehomeinspection-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"Warning Siren Areas","Warning Siren Coverage Areas within Louisville Metro.",http://portal.louisvilleky.gov/dataset/warning-siren-areas
+"Louisville",http://portal.louisvilleky.gov/service/data,"Metro Council Districts","Louisville Metro Council Districts",http://portal.louisvilleky.gov/dataset/metro-council-districts
+"Louisville",http://portal.louisvilleky.gov/service/data,"Street Centerline","Develop Louisville: Street Centerline",http://portal.louisvilleky.gov/dataset/streetcenter-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"U.S. Congressional Districts","U.S. Congressional Districts boundaries within Louisville Metro.",http://portal.louisvilleky.gov/dataset/us-congressional-districts
+"Louisville",http://portal.louisvilleky.gov/service/data,"Suburban Fire Districts","Fire District boundaries for Louisville Metro Suburban areas.",http://portal.louisvilleky.gov/dataset/suburban-fire-districts
+"Louisville",http://portal.louisvilleky.gov/service/data,"Urban Fire Districts","Urban Fire Districts within Louisville Metro.",http://portal.louisvilleky.gov/dataset/urban-fire-districts
+"Louisville",http://portal.louisvilleky.gov/service/data,"Yelp Data","Listing of geocoded businesses, inspections for those businesses, and health violations for those businesses,  used as a feed to Yelp.",http://portal.louisvilleky.gov/dataset/yelp-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"Buildings","Building footprints from 2012 in Jefferson County. The Buildings (BG) layer consists of photogrammetrically interpreted polygons representing roof outlines of manmade structures in Jefferson County, Kentucky.",http://portal.louisvilleky.gov/dataset/buildings-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"Emergency Warning Sirens","Locations of Emergency warning sirens in Louisville.",http://portal.louisvilleky.gov/dataset/emergency-warning-sirens
+"Louisville",http://portal.louisvilleky.gov/service/data,"Urban Tree Canopy Assessment","The following information was produced from the 2015 Urban Tree Canopy Assessment for the City of Louisville, KY sponsored by the Office of Sustainability.",http://portal.louisvilleky.gov/dataset/utcdata
+"Louisville",http://portal.louisvilleky.gov/service/data,"School Board Districts","Jefferson County School Board Districts and Anchorage Public School District.",http://portal.louisvilleky.gov/dataset/school-districts
+"Louisville",http://portal.louisvilleky.gov/service/data,"Expenditures Data","Includes all expenditures by agency, with additional data including funding source, vendor name, and amount invoiced. Data from 2008 to Present.",http://portal.louisvilleky.gov/dataset/expenditures-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"APCD Asbestos Removal Permits","APCD Asbestos Removal Permits: Air Pollution Control",http://portal.louisvilleky.gov/dataset/AsbestosRemPermit-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"Municipalities","Municipalities within Louisville Metro.  Provided by Kentucky Secretary of State's Land Records office.",http://portal.louisvilleky.gov/dataset/municipalities
+"Louisville",http://portal.louisvilleky.gov/service/data,"Fire Property Damage","Fire Property Damage: Louisville Fire",http://portal.louisvilleky.gov/dataset/firepropertyloss-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"Account Breakdown by Program Area","A monthly summary for the number of cases where financial services were provided and total funding spent by funding source and program area.",http://portal.louisvilleky.gov/dataset/care_allaccounts-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"Snow Routes","Snow routes for Louisville Metro.",http://portal.louisvilleky.gov/dataset/snow-routes
+"Louisville",http://portal.louisvilleky.gov/service/data,"State Senatorial Districts","Kentucky Senatorial Districts within Louisville Metro.",http://portal.louisvilleky.gov/dataset/state-senatorial-districts
+"Louisville",http://portal.louisvilleky.gov/service/data,"IDIS PR56 – CDBG Timeliness Report","Analyzes rate of committing and distributing funds to determine if we will me timeliness guidelines. From Integrated Disbursement and Information System (IDIS) - A mandatory system used to track projects funded by HUD grants (CDBG, ESG, HOPWA and HOME funds).",http://portal.louisvilleky.gov/dataset/IDIS_PR_56-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"State Legislative Districts","Kentucky Legislative Districts within Louisville Metro.",http://portal.louisvilleky.gov/dataset/state-legislative-districts
+"Louisville",http://portal.louisvilleky.gov/service/data,"Solid Waste Management Route Data","SWMS Division",http://portal.louisvilleky.gov/dataset/routes_not_five_seven-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"Neighborhood Place Areas","Neighborhood place districts for Louisville Metro.",http://portal.louisvilleky.gov/dataset/neighborhood-place-areas
+"Louisville",http://portal.louisvilleky.gov/service/data,"Meals Served Summary","Shows a summary of the number of meals served and delivered for any given time period. This report is submitted to the business office for reimbursement from the state.",http://portal.louisvilleky.gov/dataset/mealsservedsummary-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"Downtown Public Parking","This contains public parking facilites in downtown Louisville that are owned and managed by the Parking Authoring of River City (PARC), Riverside Parking, System Parking and many others.",http://portal.louisvilleky.gov/dataset/downtown_public_parking-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"On-Street Parking Citation Collections","Comparing monthly data: citations issued, citations collected, voids and citations sent to collection.",http://portal.louisvilleky.gov/dataset/parccollections-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"IDIS PR27 – Status of HOME Grants Report","Financial information on the HOME grant.  This helps us analyze our rate of committing and distributing funds to determine if we will meet timeliness guidelines. From Integrated Disbursement and Information System (IDIS).",http://portal.louisvilleky.gov/dataset/IDIS_PR_27-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"Officer Involved Shooting Database and Statistical Analysis","Officer Involved Shooting Database and Statistical Analysis",http://portal.louisvilleky.gov/dataset/ois-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"Return of Spontaneous Circulation","A person who has no pulse at the time of EMS arrival and EMS paramedics are able to return a pulse for 2 minutes or more.",http://portal.louisvilleky.gov/dataset/ems_rosc-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"Traffic Collisions in Kentucky Annual Reports","This external link displays all the annual reports for traffic collisons in the Commonwealth of Kentucky.",http://portal.louisvilleky.gov/dataset/traffic-collisions-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"Property Available for Purchase","Properties that are for sale from the Landbank, Urban Renewal and limited Metro-owned parcels.",http://portal.louisvilleky.gov/dataset/csrpropertydisposition-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"State Snow Routes","State snow routes for Louisville Metro.",http://portal.louisvilleky.gov/dataset/state-snow-routes
+"Louisville",http://portal.louisvilleky.gov/service/data,"Abandoned Urban Property","Inventory held over 1 year includes data for properties NOT owned or controlled by Metro.",http://portal.louisvilleky.gov/dataset/abandonedurbanproperty-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"IDIS PR 22 – Status of HOME Activities","The current status of HOME activities by program year and includes committed amount and drawn amount. This is a quick reference to see the status of HOME activities for a given year and is a quick glance to see what activities are ready to close.",http://portal.louisvilleky.gov/dataset/IDIS_PR_22-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"Sidewalk Repair Request Data","Rating, linear footage, and repair status for sidewalk repair requests.",http://portal.louisvilleky.gov/dataset/sidewalkrepairbacklog
+"Louisville",http://portal.louisvilleky.gov/service/data,"Community Ministries Areas","Community Ministries Areas in Louisville.",http://portal.louisvilleky.gov/dataset/community-ministries-areas
+"Louisville",http://portal.louisvilleky.gov/service/data,"Scenic Corridors Parkways","Scenic Corridors Parkways",http://portal.louisvilleky.gov/dataset/scp-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"Community Ministries Sites","Listing of Community Ministries locations and information. ",http://portal.louisvilleky.gov/dataset/community-ministries-series
+"Louisville",http://portal.louisvilleky.gov/service/data,"Foreclosures Initiated","Count of vacant/abandoned properties on which Metro has initiated a foreclosure.",http://portal.louisvilleky.gov/dataset/csropenforeclosure-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"Residential and commercial recycling tonnage and diversion rate","Residential and commercial main stream rolling 4-year average recycling tonnage and diversion rate.",http://portal.louisvilleky.gov/dataset/recyclingrate-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"Water Bodies","Bodies of water in Jefferson County",http://portal.louisvilleky.gov/dataset/water_body-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"Historic Areas","Data from the Metro Landmarks Commission, Kentucky Heritage Council, and National Register of Historic Places about National Historic Landmarks in Jefferson County, Kentucky.",http://portal.louisvilleky.gov/dataset/historic_area-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"Traffic Signs","Sign inventory in Jefferson County.",http://portal.louisvilleky.gov/dataset/traffic_sign-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"Development Funds Unspent Over 24 Months","Development Funds Unspent Over 24 Months . Sum of money in relevant LeAP cost centers that were funded  greater than 24 months before the report date.",http://portal.louisvilleky.gov/dataset/csrdevfundsnotexpended
+"Louisville",http://portal.louisvilleky.gov/service/data,"Emergency Home Repairs Over 30 Days","Emergency Home Repairs Requiring Over 30 Days to Complete . Number of cases starting during month with >30 days from completed app to repairs complete (or current date if open).",http://portal.louisvilleky.gov/dataset/csremergencyhomerepair
+"Louisville",http://portal.louisvilleky.gov/service/data,"Vehicle Break-in's in PARC Facilities","The total number of vehicle break-ins monthly at PARC facilities.",http://portal.louisvilleky.gov/dataset/parcvehiclebreakins-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"Historic Markers","Historic markers for historic sites in Jefferson County.  Data is provided to LOJIC from the Kentucky Historical Society.",http://portal.louisvilleky.gov/dataset/historic_markers-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"Cemeteries","Active and inactive cemeteries in Jefferson County.",http://portal.louisvilleky.gov/dataset/cemeteries-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"Natural Areas","Map of 'Natural Areas' in Louisville Metro including (but not limited to) Conservation Easements, State Preserves and Parks, Municipal Parks, the Community Improvement District in Jefferson and Bullitt Counties, Bird Santuaries and Historical Preservation Easements.",http://portal.louisvilleky.gov/dataset/natural_areas-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"On-Street Parking Citation Revenue"," Compare monthly citation data against dollar amount of citations collected vs. dollar amount of issued citations.",http://portal.louisvilleky.gov/dataset/parconstreetrevenue-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"Metro and Olmsted Parks","Metro Park and Olmsted boundaries.",http://portal.louisvilleky.gov/dataset/metro_parks-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"IDIS PR 02 List of Activities by Program Year and Project","A snapshot of all activities (open, completed, and cancelled) by program year and project. This report will show us the funded amount, drawn amount and the current balance of each activity.",http://portal.louisvilleky.gov/dataset/IDIS_PR_02-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"Spot Heights","Point feature class that comprises the photogrammetrically compiled Spot Heights (SH) for Jefferson County, Kentucky. All elevations are in U.S. Feet and cast on the North American Vertical Datum (NAVD) of 1988.",http://portal.louisvilleky.gov/dataset/spot_height-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"Volunteer Demographic","Basic demographics of volunteers from Volunteer Works Volunteer management system that records volunteer man-hours and payrate, site locations, contact information for volunteers and site.",http://portal.louisvilleky.gov/dataset/volunteerdemographic-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"Railroads","The Railroad (RR) layer consist of photogrammetrically interpreted polylines representing various active and abandoned railroad features as well as railroad yards, spur lines and railroad bridges.",http://portal.louisvilleky.gov/dataset/railroad-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"Jefferson County Signalized Intersections","Listing of all traffic signal control devices in Jefferson County (except for a handful of signals in the J-town area that we don't own, operate or maintain).  This includes both Metro and State owned traffic signals.",http://portal.louisvilleky.gov/dataset/signals-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"Vegetation Lines","Tree areas in Jefferson County.",http://portal.louisvilleky.gov/dataset/vegetation_line-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"Streams","Streams in Jefferson County.",http://portal.louisvilleky.gov/dataset/stream-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"Volunteer by Site","Volunteers by site location from Volunteer Works - Volunteer management system that records volunteer man-hours and payrate, site locations, contact information for volunteers and site.",http://portal.louisvilleky.gov/dataset/csrcolunteerbysite-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"CARE Denials","Summary count of denial reasons documented from CARE - a Data collection system used by the Family Assessment and Support Services program areas to document the requests for information & referral and the case management of clients.",http://portal.louisvilleky.gov/dataset/care-denied-outcomes
+"Louisville",http://portal.louisvilleky.gov/service/data,"Metro Parks Volunteer Service Log","The number of volunteer hours tracked monthly at various locations and events throughout the Metro Parks system.",http://portal.louisvilleky.gov/dataset/metroparkvolunteerlog
+"Louisville",http://portal.louisvilleky.gov/service/data,"Recreation Areas","The Recreation Areas layer consists of photogrammetrically interpreted polygons representing various features related to recreational activities such as tennis courts, playgrounds, ball fields, golf courses and swimming pools in Jefferson County, Kentucky.",http://portal.louisvilleky.gov/dataset/recreation_area-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"Senior Nutrition Waiting List","Client waitlist scores to know which client needs to be added to the service next. - - from SERVTracker - a data collection system to track Senior Nutrition clients, both congregate and Home-delivered.",http://portal.louisvilleky.gov/dataset/senior-nutrition-waitinglist-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"Metro Parks Volunteer Project Log","Project listing of every volunteer project since the conception of the metro parks volunteer coordinator position in 2005 till the end of  the previous fiscal year.",http://portal.louisvilleky.gov/dataset/metroparks-volunteer-projects-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"On-Street Parking Meter Repairs","Recorded action performed by shop personnel on all report malfunctioning meters.",http://portal.louisvilleky.gov/dataset/parkingmeterrepair-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"LMPD Hate Crime","Data is subset of the Incident data provided by the open data portal. This data specifically identifies crimes that meet the elements outlined under the FBI Hate crimes program.",http://portal.louisvilleky.gov/dataset/liheap-demographics
+"Louisville",http://portal.louisvilleky.gov/service/data,"LIHEAP Demographics","A complete record of all LIHEAP clients based upon specified Start/End date and Status (Approved, Denied, Pending, All Statuses) including but not limited to total benefit, first/last name, age, race, disability, address, client who processed, application number, application date/time submitted, income, etc.",http://portal.louisvilleky.gov/dataset/expenditures-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"Alleys","Alleys in Jefferson County.",http://portal.louisvilleky.gov/dataset/alleys-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"Olmsted Parkways","Olmsted Parkways including Eastern, Southern, Northwestern, Southwestern, and Algonquin.",http://portal.louisvilleky.gov/dataset/olmstead_parkways-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"SPP Report","Client intake system for Monetary Applications paid to various different vendors as well as LIHEAP Subsidy/Crisis payments paid to LG&E, financial reconciliation with OMB and LeAP.",http://portal.louisvilleky.gov/dataset/spp_report
+"Louisville",http://portal.louisvilleky.gov/service/data,"CARE Outcomes","Summary count of all outcomes documented. Summary count of denial reasons documented from CARE - a Data collection system used by the Family Assessment and Support Services program areas to document the requests for information & referral and the case management of clients.",http://portal.louisvilleky.gov/dataset/care-outcomes
+"Louisville",http://portal.louisvilleky.gov/service/data,"ALL Checks","CSR (now develop louisville + community Services):  Reflects the funding source used for payments and how much total payments were from CARE - a Data collection system used by the Family Assessment and Support Services program areas to document the requests for information & referral and the case management of clients.",http://portal.louisvilleky.gov/dataset/AllChecks-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"Needs","Amount received and reason for payment from CARE - a Data collection system used by the Family Assessment and Support Services program areas to document the requests for information &amp; referral and the case management of clients.",http://portal.louisvilleky.gov/dataset/needs-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"Sustainability Plan Project Recommendations","Develop Louisville: Sustainability Plan Project Recommendations",http://portal.louisvilleky.gov/dataset/SustainabilityPlan-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"Application Reports","Shows client, application, benefit amount, etc. - from CASTiNET - Client intake system for Monetary Applications paid to various different vendors as well as LIHEAP Subsidy/Crisis payments paid to LG&E, financial reconciliation with OMB and LeAP.",http://portal.louisvilleky.gov/dataset/Castinet-application-report
+"Louisville",http://portal.louisvilleky.gov/service/data,"Vision Louisville Public Input","Economic Development: Vision Louisville Public Input",http://portal.louisvilleky.gov/dataset/visionpublicinput-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"Care Reimbursements","SSI reimbursements received for a given time period broken down by client’s name and transaction credited from CARE - a Data collection system used by the Family Assessment and Support Services program areas to document the requests for information & referral and the case management of clients.",http://portal.louisvilleky.gov/dataset/care-reimbursement
+"Louisville",http://portal.louisvilleky.gov/service/data,"Metro Demolitions","Develop Louisville: Metro Demolitions",http://portal.louisvilleky.gov/dataset/metrodemolitions1-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"Louisville Streets - Right of Way","ESRI-based Gis shape files that contain all Jefferson County streets and 'right of way' information.",http://portal.louisvilleky.gov/dataset/street-right-of-way-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"National Register Historic Districts","Develop Louisville: National Register Historic Districts",http://portal.louisvilleky.gov/dataset/nrhd-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"Olmsted Parkways","Develop Louisville: Olmsted Parkways",http://portal.louisvilleky.gov/dataset/olmstead-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"Zoning","Zoning contains the zoning districts within Louisville Metro that govern permitted land use, density and intensity of allowed development.",http://portal.louisvilleky.gov/dataset/zoning-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"National Emissions Inventory","Emissions inventories: emissions reported by regulated facilities and modeled emissions from vehicles, smaller sources, wildfires, etc. Can select data by pollutant and/or geography, then download the resulting data set.",http://portal.louisvilleky.gov/dataset/nei-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"Land Use","Develop Louisville: Land use maps.",http://portal.louisvilleky.gov/dataset/landuse-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"AirNow API","Air quality forecasts and raw air monitoring data (not quality-assured) for ozone and particulates. Can programmatically access raw air monitoring data for ozone and particulates and air quality forecasts.",http://portal.louisvilleky.gov/dataset/airnowapi-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"Form Districts","Form Districts are areas with distinct boundaries to which a set of regulations governing the pattern and form of development and redevelopment applies.",http://portal.louisvilleky.gov/dataset/formdistrict-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"Historic Property","Develop Louisville: Historic Property",http://portal.louisvilleky.gov/dataset/historic-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"Zoning Overlay Districts","Zoning Overlay Districts contain areas that have increased development guidelines.",http://portal.louisvilleky.gov/dataset/zoneover-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"Plan Certain Areas","Plan Certain Areas are areas of rezoning where the Planning Commission or legislative body may designate, at the time of approval, elements and restrictions of the approved plan that are an integral part of the development plan and binding them to the use and development of the subject property.",http://portal.louisvilleky.gov/dataset/planareas-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"Subdivisions","Subdivisions are boundaries of recorded subdivisions within Louisville Metro.",http://portal.louisvilleky.gov/dataset/sub-data
+"Louisville",http://portal.louisvilleky.gov/service/data,"Landmarks Preservation Districts","Develop Louisville: Landmarks Preservation Districts",http://portal.louisvilleky.gov/dataset/landmarks-data
+"New York",https://nycopendata.socrata.com/,"Parcels and addresses","Property address directory",https://data.cityofnewyork.us/City-Government/Property-Address-Directory/bc8t-ecyu
+"New York",https://nycopendata.socrata.com/,"Permits","Construction pipeline - list of upcoming construction opportunities",https://data.cityofnewyork.us/City-Government/Construction-Pipeline/64vf-hxyb
+"New York",https://nycopendata.socrata.com/,"Permits","Projected new housing starts",https://data.cityofnewyork.us/Housing-Development/Projected-New-Housing-Starts-as-Used-in-Enrollment/pa5t-ktd3
+"New York",https://nycopendata.socrata.com/,"Code Enforcement","Housing maintenance code violations",https://data.cityofnewyork.us/Housing-Development/Housing-Maintenance-Code-Violations/wvxf-dwi5
+"New York",https://nycopendata.socrata.com/,"Publicly owned land","Parks",https://data.cityofnewyork.us/City-Government/Parks-Properties/rjaj-zgq7
+"New York",https://nycopendata.socrata.com/,"Publicly owned land","Open Spaces",https://data.cityofnewyork.us/Recreation/New-York-City-Open-Spaces-Parks/g84h-jbjm
+"New York",https://nycopendata.socrata.com/,"Crime","Historical Crime Data",https://data.cityofnewyork.us/Public-Safety/Historical-New-York-City-Crime-Data/hqhv-9zeg
+"New York",https://nycopendata.socrata.com/,"Crime","7 Major felony incident map",https://data.cityofnewyork.us/Public-Safety/NYPD-7-Major-Felony-Incident-Map/dvh8-u7es+C26
+"New York",https://nycopendata.socrata.com/,"Homelessness","Homeless population by year (09-12)",https://data.cityofnewyork.us/Social-Services/Directory-Of-Homeless-Population-By-Year/5t4n-d72c
+"New York",https://nycopendata.socrata.com/,"311","Service requests (2010 to present)",https://nycopendata.socrata.com/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9
+"New York",https://nycopendata.socrata.com/,"Transit","Subway stations",https://data.cityofnewyork.us/Transportation/Subway-Stations/arq3-7z49
+"New York",https://nycopendata.socrata.com/,"Transit","MTA Data - pertaining to subways, buses, commuter rail, bridges, and tunnels",https://data.cityofnewyork.us/Transportation/MTA-Data/mmu8-8w8b
+"New York",https://nycopendata.socrata.com/,"Preschool/Daycare","Day Care centers",https://data.cityofnewyork.us/City-Government/Day-Care-Center/3nxf-gbay
+"New York",https://nycopendata.socrata.com/,"Schools","After school program locations",https://data.cityofnewyork.us/Social-Services/After-School-Programs/6ej9-7qyi
+"New York",https://nycopendata.socrata.com/,"Schools","School point locations",https://data.cityofnewyork.us/Education/School-Point-Locations/jfju-ynrr
+"New York",https://nycopendata.socrata.com/,"Schools","School survey",https://data.cityofnewyork.us/Education/NYC-School-Survey/kwk4-6u9e
+"New York",https://nycopendata.socrata.com/,"Privately owned assets","Selected Facilities and Program sites including schools, parks, libraries, day care, etc",https://data.cityofnewyork.us/Housing-Development/Selected-Facilities-and-Program-Sites-Shapefile/2fpa-bnsx
+"New York",https://nycopendata.socrata.com/,"Zoning","Primary Residential zoning by lot",https://data.cityofnewyork.us/Housing-Development/Primary-Residential-Zoning-by-lot/ieyi-rqsn
+"New York",https://nycopendata.socrata.com/,"Zoning","Primary Commercial zoning by lot",https://data.cityofnewyork.us/Business/Primary-Commercial-Zoning-by-lot/pwhj-ikym
+"New York",https://nycopendata.socrata.com/,"Zoning","SafeRoutes to school priority zones",https://data.cityofnewyork.us/Transportation/Safe-Route-to-Schools-Priority-Schools/pc34-d3sx
+"New York",https://nycopendata.socrata.com/,"Zoning","Hurricane inundation zones (worst case) ",https://data.cityofnewyork.us/Public-Safety/Hurricane-Inundation-Zones-Worst-Case/h3ke-x25q
+"New York",https://nycopendata.socrata.com/,"Zoning","Zoning district data",https://data.cityofnewyork.us/City-Government/Zoning-GIS-Data-ESRI-Shape-file/kdig-pewd
+"New York",https://nycopendata.socrata.com/,"Health and environment","Restaurant inspection results",https://nycopendata.socrata.com/Health/DOHMH-New-York-City-Restaurant-Inspection-Results/xx67-kt59
+"New York",https://nycopendata.socrata.com/,"Health and environment","Child welfare indicators (per NYC council)",https://data.cityofnewyork.us/Social-Services/Child-Welfare-Indicators-Annual-and-quarterly-repo/3m2q-9maw
+"New York",https://nycopendata.socrata.com/,"Jobs","Job listings with location",https://data.cityofnewyork.us/City-Government/NYC-Jobs/kpav-sd4t
+"New Orleans",https://data.nola.gov,"Preschool/daycare","Building preschool/daycare",
+"New Orleans",https://data.nola.gov,"Parcels and addresses","Calls for service",https://data.nola.gov/Public-Safety-and-Preparedness/Calls-for-Service-2015/w68y-xmk6
+"New Orleans",https://data.nola.gov,"Permits","Building permits",https://data.nola.gov/Housing-Land-Use-and-Blight/NOLA-Permits/rcm3-fn58
+"New Orleans",https://data.nola.gov,"Code enforcement","Hearings",https://data.nola.gov/dataset/Code-Enforcement-Hearings-Calendar/g7yr-kp9j
+"New Orleans",https://data.nola.gov,"Code enforcement","Inspections",https://data.nola.gov/Housing-Land-Use-and-Blight/Code-Enforcement-Inspections/2mq3-p3xc
+"New Orleans",https://data.nola.gov,"Publicly owned land","Land use of nolas blight/nola-land",https://data.nola.gov/Housing-Land-Use-and-Blight/NOLA-Land-Use/n37q-brt2
+"New Orleans",https://data.nola.gov,"Crime","Crimes",https://data.nola.gov/Public-Safety-and-Preparedness/Murders-Violent-Crime-Rate-and-Property-Crime-Rate/kirw-4rbx
+"New Orleans",https://data.nola.gov,"Homelessness","Point in Time count",https://data.nola.gov/Health-Education-and-Social-Services/Homeless-Point-In-Time-Count-2005-Present-/f29j-qgmr
+"New Orleans",https://data.nola.gov,"311","Rate of 311 call resolution",https://data.nola.gov/City-Administration/Rate-of-311-first-call-resolution-2209-/2t9v-ghrk
+"New Orleans",https://data.nola.gov,"Transit","Travel time to work",https://data.nola.gov/Transportation-and-Infrastructure/Travel-time-to-work-2007-Present-/qwed-53qf
+"New Orleans",https://data.nola.gov,"Schools","Location of K-12 schools",https://data.nola.gov/Health-Education-and-Social-Services/Schools-K-12/yanw-8k4k
+"New Orleans",https://data.nola.gov,"Schools","Letter grade of schools 2009-present",https://data.nola.gov/Health-Education-and-Social-Services/School-Letter-Grades-2009-Present-/uqaz-4txm
+"New Orleans",https://data.nola.gov,"Schools","HS graduation rates",https://data.nola.gov/Health-Education-and-Social-Services/High-School-Graduation-Rates-2008-Present-/rut5-g5bw
+"New Orleans",https://data.nola.gov,"Privately owned assets","Restaurants",https://data.nola.gov/Health-Education-and-Social-Services/NOLA-Restaurants/utqx-f83p
+"New Orleans",https://data.nola.gov,"Privately owned assets","Grocery stores",https://data.nola.gov/Health-Education-and-Social-Services/NOLA-Grocery-Stores-Map/sgvu-dj2a
+"New Orleans",https://data.nola.gov,"Zoning","Zoning districts",https://data.nola.gov/Housing-Land-Use-and-Blight/NOLA-Zoning-Districts/dnvw-73jv
+"New Orleans",https://data.nola.gov,"Special Events","Mardi Gras Parade Routes - Daily Routes (2016)",http://portal.nolagis.opendata.arcgis.com/datasets/aa8931b8b6d4437c9a611f219185c23e_0
+"Philadelphia",https://www.opendataphilly.org,"Parcels and addresses","Snow emergency routes",https://www.opendataphilly.org/dataset/snow-emergency-routes
+"Philadelphia",https://www.opendataphilly.org,"Parcels and addresses","Street lane closures",https://www.opendataphilly.org/dataset/street-lane-closures
+"Philadelphia",https://www.opendataphilly.org,"Parcels and addresses","Stormwater Billing Parcels",https://www.opendataphilly.org/dataset/pwd-stormwater-billing-parcels
+"Philadelphia",https://www.opendataphilly.org,"Parcels and addresses","Property Parcels",https://www.opendataphilly.org/dataset/property-parcels
+"Philadelphia",https://www.opendataphilly.org,"Parcels and addresses","Transportation Parcels",https://www.opendataphilly.org/dataset/transportation-parcels
+"Philadelphia",https://www.opendataphilly.org,"Permits","Real estate/land records",https://www.opendataphilly.org/group/real-estate-land-records-group
+"Philadelphia",https://www.opendataphilly.org,"Permits","Residential parking permits",https://www.opendataphilly.org/dataset/active-residential-parking-permits-by-district
+"Philadelphia",https://www.opendataphilly.org,"Code enforcement","Licences and Inspections data (business licenses)",https://www.opendataphilly.org/dataset/licenses-and-inspections-api
+"Philadelphia",https://www.opendataphilly.org,"Code enforcement","Properties with ownership information",https://www.opendataphilly.org/dataset/opa-property-assessments
+"Philadelphia",https://www.opendataphilly.org,"Code enforcement","Code violations",https://www.opendataphilly.org/dataset/code-violation-notices
+"Philadelphia",https://www.opendataphilly.org,"Code enforcement","Exterior violation cleanups",https://www.opendataphilly.org/dataset/clip-exterior-violation-cleanups
+"Philadelphia",https://www.opendataphilly.org,"Publicly owned land","Parks and recreation",https://www.opendataphilly.org/group/parks-recreation-group
+"Philadelphia",https://www.opendataphilly.org,"Publicly owned land","Parks and recreation assets",https://www.opendataphilly.org/dataset/parks-and-recreation-assets
+"Philadelphia",https://www.opendataphilly.org,"Publicly owned land","Parks and Rec Out of School Programs",https://www.opendataphilly.org/dataset/ppr-out-of-school-time-programs
+"Philadelphia",https://www.opendataphilly.org,"Publicly owned land","City buildings",https://www.opendataphilly.org/dataset/mfdb-city-buildings
+"Philadelphia",https://www.opendataphilly.org,"Publicly owned land","City owned vacant property",https://www.opendataphilly.org/dataset/city-owned-vacant-property
+"Philadelphia",https://www.opendataphilly.org,"Crime","Public safety data sets",https://www.opendataphilly.org/group/public-safety-group
+"Philadelphia",https://www.opendataphilly.org,"Crime","Crime incidents",https://www.opendataphilly.org/dataset/crime-incidents
+"Philadelphia",https://www.opendataphilly.org,"311","311 service requests",https://www.opendataphilly.org/dataset/311-service-requests
+"Philadelphia",https://www.opendataphilly.org,"Transit","Bike data",https://www.opendataphilly.org/organization/city-of-philadelphia?q=bike&sort=score+desc%2C+metadata_modified+desc
+"Philadelphia",https://www.opendataphilly.org,"Transit","Transportation data sets",https://www.opendataphilly.org/group/transportation-group
+"Philadelphia",https://www.opendataphilly.org,"Preschool/daycare","Childcare locations",https://www.opendataphilly.org/dataset/childcare-map
+"Philadelphia",https://www.opendataphilly.org,"Schools","Education data sets",https://www.opendataphilly.org/group/education-group
+"Philadelphia",https://www.opendataphilly.org,"Privately owned assets","Healthy corner store locations",https://www.opendataphilly.org/dataset/healthy-corner-store-locations
+"Philadelphia",https://www.opendataphilly.org,"Zoning","Planning and zoning data sets",https://www.opendataphilly.org/group/planning-zoning-group
+"Philadelphia",https://www.opendataphilly.org,"Zoning","Zoning overlay districts",https://www.opendataphilly.org/dataset/zoning-overlays
+"Philadelphia",https://www.opendataphilly.org,"Zoning","Zoning base districts",https://www.opendataphilly.org/dataset/zoning-base-districts
+"Philadelphia",https://www.opendataphilly.org,"Health and environment","Health Centers",https://www.opendataphilly.org/dataset/health-centers
+"Philadelphia",https://www.opendataphilly.org,"Health and environment","Healthy Corner Stores",https://www.opendataphilly.org/dataset/healthy-corner-store-locations
+"San Francisco",https://data.sfgov.org,"Parcels and addresses","Neighborhood groups map",https://data.sfgov.org/Geographic-Locations-and-Boundaries/Neighborhood-Groups-Map/qc6m-r4ih
+"San Francisco",https://data.sfgov.org,"Parcels and addresses","Affordable housing bonus program zoning districts and eligible parcels",https://data.sfgov.org/Geographic-Locations-and-Boundaries/Affordable-Housing-Bonus-Program-Zoning-Districts-/hxy5-cgnc
+"San Francisco",https://data.sfgov.org,"Parcels and addresses","Property information",https://data.sfgov.org/Housing-and-Buildings/San-Francisco-Property-Information-Map/i8ew-h6z7
+"San Francisco",https://data.sfgov.org,"Permits","Registered businesses",https://data.sfgov.org/Economy-and-Community/Registered-Business-Map/vt9c-aeiw
+"San Francisco",https://data.sfgov.org,"Permits","Stree use permits",https://data.sfgov.org/Economy-and-Community/Street-Use-Permit-Search/nn8w-ruis
+"San Francisco",https://data.sfgov.org,"Publicly owned land","Parks and open space",https://data.sfgov.org/Culture-and-Recreation/Park-and-Open-Space-Map/4udc-s3pr
+"San Francisco",https://data.sfgov.org,"Crime","Crime incidents",https://data.sfgov.org/Public-Safety/SFPD-Incidents-from-1-January-2003/tmnf-yvry
+"San Francisco",https://data.sfgov.org,"Crime","Crime incidents map",https://data.sfgov.org/Public-Safety/Map-Crime-Incidents-from-1-Jan-2003/gxxq-x39z
+"San Francisco",https://data.sfgov.org,"Crime","Fire calls for service (responses)",https://data.sfgov.org/Public-Safety/Fire-Calls-For-Service-Responses-/5hms-iq2d
+"San Francisco",https://data.sfgov.org,"Homelessness","2011 Point in Time count",https://data.sfgov.org/Health-and-Social-Services/2011-Unsheltered-Homeless-Population-by-Supervisor/ibax-2ewt
+"San Francisco",https://data.sfgov.org,"311","Information requests",https://data.sfgov.org/City-Infrastructure/311-Information-Requests-by-Month/hrr4-hjc6
+"San Francisco",https://data.sfgov.org,"Transit","Public bicycle parking",https://data.sfgov.org/Transportation/Bicycle-Parking-Public-/w969-5mn4
+"San Francisco",https://data.sfgov.org,"Transit","Bikeway Network",https://data.sfgov.org/Transportation/SFMTA-Bikeway-Network/t6vv-tjkd
+"San Francisco",https://data.sfgov.org,"Transit","Transit stop and schedule",https://data.sfgov.org/Transportation/SFMTA-Transit-Stop-and-Schedule-Data-GTFS-format-/2qyp-77cq
+"San Francisco",https://data.sfgov.org,"Schools","SF Public Schools",https://data.sfgov.org/Geographic-Locations-and-Boundaries/San-Francisco-Public-Schools-Points/sert-rabb
+"San Francisco",https://data.sfgov.org,"Schools","SF Private Schools",https://data.sfgov.org/Geographic-Locations-and-Boundaries/Private-Schools-Points-/64n6-x2xf
+"San Francisco",https://data.sfgov.org,"Schools","School crossing guards",https://data.sfgov.org/Transportation/School-Crossing-Guards/c9fn-ah2c
+"San Francisco",https://data.sfgov.org,"Privately owned assets","Mobile food schedule",https://data.sfgov.org/Economy-and-Community/Mobile-Food-Schedule/jjew-r69b
+"San Francisco",https://data.sfgov.org,"Privately owned assets","Restaurant scores",https://data.sfgov.org/Health-and-Social-Services/Restaurant-Scores/stya-26eb
+"San Francisco",https://data.sfgov.org,"Zoning","Zoning districts",https://data.sfgov.org/Geographic-Locations-and-Boundaries/Zoning-Districts/mici-sct2
+"San Francisco",https://data.sfgov.org,"Zoning","Enterprise zones",https://data.sfgov.org/Economy-and-Community/Enterprise-Zones/sqgr-ajkg
+"San Francisco",https://data.sfgov.org,"Health and environment","Health Care failities",https://data.sfgov.org/Health-and-Social-Services/Health-Care-Facilities-San-Francisco-CA/xncg-kcnk
+"San Francisco",https://data.sfgov.org,"Health and environment","Climate and health data",https://data.sfgov.org/Health-and-Social-Services/Climate-and-Health-Data/paqg-zyqx
+"San Francisco",https://data.sfgov.org,"Health and environment","Community resiliency indicator system",https://data.sfgov.org/Health-and-Social-Services/Community-Resiliency-Indicator-System/banc-xdvr
+
