@@ -25,41 +25,23 @@ Handlebars.registerPartial('header',
  '                 '  + 
  '             </li>  '  + 
  '             <li>  '  + 
- '               <a href="about.html">  '  + 
- '                 <button class="usa-nav-link" aria-expanded="false">  '  + 
- '                 <span>Learn More</span>  '  + 
- '                 </button></a>  '  + 
- '                 '  + 
- '             </li>  '  + 
- '             <li>  '  + 
  '               <a href="feature.html">  '  + 
  '                 <button class="usa-nav-link" aria-expanded="false">  '  + 
- '                 <span>Use The Tools</span>  '  + 
+ '                 <span>Projects</span>  '  + 
  '                 </button></a>  '  + 
  '                 '  +  
  '             </li>  '  + 
  '             <li>  '  + 
- '               <a class="usa-nav-link" href="data.html">  '  + 
+ '               <a class="usa-nav-link" href="build.html">  '  + 
  '                 <button class="usa-nav-link" aria-expanded="false">  '  +
- '                 <span>See the Data</span>  '  + 
+ '                 <span>Build</span>  '  + 
  '                 </button>' +
  '               </a>  '  + 
  '             </li>  '  + 
  '             <li>  '  + 
  '               <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="sidenav-2">  '  + 
- '                 <span>Join Us</span>  '  + 
+ '                 <span><a href="http://eepurl.com/cd6yor">Join</a></span>  '  + 
  '               </button>  '  + 
- '               <ul id="sidenav-2" class="usa-nav-submenu">  '  + 
- '                 <li>  '  + 
- '                   <a href="http://eepurl.com/cd6yor">Join our Mailing List</a>  '  + 
- '                 </li>  '  + 
- '                 <li>  '  + 
- '                   <a href="https://opportunity-slack.herokuapp.com">Join us on Slack </a>  '  + 
- '                 </li>  '  + 
- '                 <li>  '  + 
- '                   <a href="https://github.com/uscensusbureau/opportunity">Join us on Github title</a>  '  + 
- '                 </li>  '  + 
- '               </ul>  '  + 
  '             </li>  '  + 
  '               '  + 
  '           </ul>  '  + 

@@ -1,0 +1,114 @@
+
+
+  <script type="text/x-handlebars-template" id="header-template">
+    {{> header }}
+  </script>
+  
+
+  <!-- CODE FOR BODY STARTS HERE -->
+  <div class="">
+
+  <div class="background-styling">
+      <div class="usa-grid">
+        <div class="usa-width-one-whole page-content-header-text">
+          <div class="">
+            <h1>Featured Products</h1>
+            <h3>Learn about tools built by participating teams</h3>
+          </div>
+        </div>
+      </div>
+
+      <div class="page-content-header-images usa-grid">
+        <div>
+          <div class="usa-width-one-third">
+            <a href="http://opportunity.pairin.com"><img src="https://raw.githubusercontent.com/jmeisel/TOPassets/master/Pairin%20Personal.png"></a>
+          </div>
+
+          <div class="usa-width-one-third">
+            <a href="https://labs.redfin.com/opportunity-score"><img src="http://opportunity.census.gov/img/data-consumers/redfin.jpg"></a>
+          </div>
+
+          <div class="usa-width-one-third">
+            <a href="https://findyour.town"><img src="https://raw.githubusercontent.com/jmeisel/TOPassets/master/Ovela%20Screenshot.PNG"></a>    
+          </div>
+        </div>
+      </div>
+  </div>
+
+
+      <div class="gallery-content">
+        <div class="usa-grid">
+          <div class="usa-width-one-whole gallery-header-text">
+            <h1>Gallery</h1>
+          </div>
+        </div>
+
+        
+        <div id="Container">
+
+        <div class="usa-grid">
+            <div class="filters-div usa-width-one-whole usa-center">
+              <button class="filter usa-button showAll" data-filter="all"> Show All</button>
+              <button class="filter usa-button otherFilters" data-filter=".housing"> Housing</button>
+              <button class="filter usa-button otherFilters" data-filter=".education"> Education</button>
+              <button class="filter usa-button otherFilters" data-filter=".health"> Health</button> 
+              <button class="filter usa-button otherFilters" data-filter=".transportation"> Transportation</button>     
+              <button class="filter usa-button otherFilters" data-filter=".employment"> Employment</button>
+              <button class="filter usa-button otherFilters" data-filter=".rural"> Rural</button>
+            </div>
+        </div>
+
+        <div id="gallery-body">
+          
+          <script type="text/x-handlebars-template" id="galleryTemplate">
+          <div class="usa-grid-full" id="">
+            {{#each data}}
+
+              <div class="mix {{Category}} usa-width-one-third panel-design" style="display: inline-block">
+                      <div class="panel-content-div">
+                        <h2>{{Title}}</h2>
+                        <img src="{{Image-File}}">
+                        <p> {{Short-Message}}</p>
+                        <div class="usa-center">
+                          <a href="{{Gallery-Link}}" class="usa-button usa-button-secondary">Learn More</a>
+                        </div>
+                      </div>
+              </div>
+              {{#if ClearDiv}}
+                <div class="blankDiv" style="clear:both"></div>
+              {{/if}}
+            {{/each}}
+          </script>
+            
+        </div>
+            
+        </div>
+      </div>
+    </div>
+      <br>
+      <br>
+      <br>
+
+  <!-- CODE FOR BODY ENDS HERE -->
+
+    <script type="text/x-handlebars-template" id="footer-template">
+      {{> footer }}
+    </script>
+
+
+    <script src="designstandards/assets/js/vendor/jquery-1.11.3.min.js"></script>
+    <script src="designstandards/assets/js/vendor/uswds.min.js"></script>
+    <script src="designstandards/assets/js/components.js"></script>
+  
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.0.5/handlebars.min.js"></script>
+    <script type="text/javascript" src="js/jquery.mixitup.min.js"></script>
+    <script src="js/main.js"></script>
+    <script type="text/javascript" src="js/HandlebarsCode/headerCode.js"></script>
+    <script type="text/javascript" src="js/HandlebarsCode/footerCode.js"></script>
+    <script type="text/javascript" src="js/HandlebarsCode/galleryCode.js"></script>
+    <script src="js/filter.js"></script>
+    
+    
+
+</body>
+</html>
