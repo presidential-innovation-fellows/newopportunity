@@ -409,7 +409,7 @@
     url(../img/flags_blue.jpg);*/
   background-size: cover;
   background-position: center bottom;
-  padding-bottom: 5em;
+  /*padding-bottom: 5em;*/
 }
 /*Photo Credit: https://pixabay.com/en/flags-american-manhattan-1425351/*/
 
@@ -426,6 +426,7 @@
   width: 310px;
   height: 210px;
   object-fit: cover;
+  box-shadow: 10px 10px 5px #000;
 }
 
 .panel-design {
