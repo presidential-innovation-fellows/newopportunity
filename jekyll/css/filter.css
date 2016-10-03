@@ -403,9 +403,10 @@
 .element-item-spring2016.advocacy { background: #77F; background: hsl( 180, 100%, 50%); }
 
 .background-styling {
-  background-image: linear-gradient(rgba(7, 7, 104, 0.8), rgba(7, 7, 104, 0.8)
+   background-image:  url(../img/flags_blue.jpg);
+  /*background-image: linear-gradient(rgba(7, 7, 104, 0.8), rgba(7, 7, 104, 0.8)
     ),
-    url(../img/flags.jpg);
+    url(../img/flags_blue.jpg);*/
   background-size: cover;
   background-position: center bottom;
   padding-bottom: 5em;
