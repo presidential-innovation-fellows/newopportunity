@@ -105,6 +105,20 @@
   <body>
 
     <header >  
+  <div class="usa-disclaimer">
+  <div class="usa-grid">
+    <span class="usa-disclaimer-official">
+      <img alt="U.S. flag" src="designstandards/assets/img/us_flag_small.png">
+      An official website of the United States Government
+    </span>
+    <span class="usa-disclaimer-stage">
+      This site is currently in beta.
+      <a href="https://18f.gsa.gov/dashboard/stages/#beta" target="_blank">
+        Learn More
+      </a>
+    </span>
+  </div>
+</div>
   <a class="usa-skipnav" href="#main-content">Skip to main content</a>
   <div class="ood-nav">
     <div class="usa-nav-container">
@@ -156,60 +170,68 @@
   </header>
 
 
+
     <main class="usa-content" id="main-content">
-      <div class="usa-width-one-whole">
-     <section class="ood">
-        <div class="full-container">
-      <div class="usa-width-one-whole ood-nav">
-    
-  
-    
-    <div class="usa-width-one-whole background-image-overlay1 clearfix" >
+      <div class="ood-banner">
+    <div class="usa-grid">
+      <h1><strong>Build with us</strong></h1>
+      <p class="usa-font-lead">We want technologists, communities, and advocates to work together to build digital tools that improve people's lives. Use the Opportunity Project data to do that. Anyone can build, and we're committed to providing you the best platform possible.</p>
       
-        
-        <h1 class="white">Build with us</h1>
-        <h3 class=" white usa-font-lead" style="text-color:white; color:white; padding:30px 35px; margin:10px 70px;">We want technologists, communities, and advocates to work together to build digital tools that improve people's lives. Use the Opportunity Project data to do that. Anyone can build, and we're committed to providing you the best platform possible. </h3>
-       <a href="http://eepurl.com/cd6yor"
-         class="usa-button usa-button-big">Get The Opportunity Project Playbook</a>
-      <a href="tools.html"
-         class="usa-button usa-button-outline usa-button-big" style="display:none;">Featured Projects</a>
+         <a href="http://eepurl.com/cd6yor"
+         class="usa-button usa-button-big">Get the Opportunity Project Playbook</a>
       
-      
-  
-  
     </div>
-        
-
-   
-  
-    
-    
-    
   </div>
-          </div>
-      </section>
+<section id="starthere" class="ood-alt">
+<div class="usa-grid-full">
+  <h1 style="text-align: left;">Start here:</h1>
+    
+   
+     <ul>
+    <li>
+    <h3 style="text-align: left;"> <a href="#datainventory">1. Access the data</a></h3> 
+    </li>
+         <li>
+           <h3 style="text-align: left;"><a href="#userscenarios">2. Choose a problem to solve</a></h3>
+    </li>
+         <li>
+           <h3 style="text-align: left;"><a href="#userscenarios">3. Collaborate and work with end-users to co-create digital solutions</a></h3>
+    </li> 
+        
+         
+  </ul>
+  </div>
+  </section>
 
-    </div>
+
 
 <div class="usa-grid">
-  <h3>Data Inventory</h3>
+  <h3 id="datainventory">Data Inventory</h3>
 
   <p class="usa-font-lead">Use curated data related to opportunity from across federal and local governments. </p>
-      <p class="ood-description">We believe that through collective action, we can use open data to build fair and equitable communities and expand opportunity for all, as citizens become better able to make informed decisions. Federal agencies, states, and local governments all compile data, and made many of the data sets public.To help you use that information through the Opportunity Project, we’ve pulled together some of the best federal and local open data sets for information on access to opportunity – things like affordable housing, good schools, safe streets, and healthcare.</p>
+      <p class="ood-description">We believe that through collective action, we can use open data to build fair and equitable communities and expand opportunity for all. To help you use that information, we pulled together some of the best federal and local open data sets for information on access to opportunity. </p>
   <ul>
+    
           <li>
-            <p class="ood-description"><em>Federal data</em> provides information for the whole nation and comes from sources like the Census and federal agencies that collect data on poverty, employment, school equity, transit safety, and the locations of Federally Qualified Health Centers and Head Start centers, and much more.</p> 
+                <p class="ood-description">Click on <a href="#federaldata">Federal data</a> to find information for the whole nation on poverty, employment, school equity, transit safety, and much more. </p>
           </li>
           <li>
-            <p class="ood-description"><em>Local data</em> also provide important data that is best – or only – captured at the local level: things like homelessness, building permits, parks, crimes, local transit routes, preschool and daycare facilities, public wifi hotspot locations, healthy food stores, and local arts and culture (like the Mardi Gras parade route  in the New Orleans data).</p> 
+              <p class="ood-description">Click on <a href="#localdata">Local data</a> to find neighborhood level information on things like homelessness, parks, crime, and healthy corner stores. </p>
           </li>
         </ul>
-  <p class="usa-font-lead"><a href="https://github.com/uscensusbureau/opportunity/raw/master/TOP%20Federal%20and%20Local%20Metadata%20(082416).xlsx">Find more information on the data sets here.</a> </p>
+  
+    <p class="ood-description"><a href="https://github.com/uscensusbureau/opportunity/raw/master/TOP%20Federal%20and%20Local%20Metadata%20(082416).xlsx">Find more information on the data sets here.</a> You can find thousands more government data sets at <a href="http://data.gov">data.gov</a>. See a data set with information on access to opportunity that’s missing? Join us in <a href="https://github.com/uscensusbureau/opportunity">GitHub</a> and add new suggestions!</p>
+  
+  <p>  
+</p>
+  
+  
+
 </div>
 
 
 <!--begin old data inventory-->
-<div class="usa-grid">
+<div class="usa-grid" id="federaldata">
   
 
 
@@ -6377,127 +6399,24 @@
   
 </div>
 
-<!--end old data inventory-->
 
-      <!--<div class="usa-grid">
-     <div class="usa-accordion-bordered">
-  <ul class="usa-unstyled-list">
-    <li>
-      <section class="ood-datasets">
-        <button class="usa-button-unstyled" aria-expanded="false"
-                aria-controls="collapsible-datasets-federal">
-          
-          <span class="ood-narrow-hide">Federal Data</span>
-          
-        </button>
-           <button class="usa-button-unstyled" aria-expanded="false"
-                aria-controls="collapsible-datasets-local">
-          
-          <span class="ood-narrow-hide">Local Data</span>
-          
-        </button>
 
-        <div id="collapsible-datasets-federal" aria-hidden="true"
-             class="usa-accordion-content">
-          
-          
 
-          <table>
-    <thead>
-      <tr>
-        <th scope="col">Resources</th>
-        <th scope="col">Description</th>
-        <th scope="col">Type</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <th scope="row"><a href="http://www.bls.gov/cew/opendata.htm">BLS</a></th>
-        <td>Quarterly Census of Employment and Wages</td>
-        <td>Data Repository</td>
-      </tr>
-      <tr>
-        <th scope="row"><a href="http://www2.census.gov/">Census</a></th>
-        <td>American Community Survey - Census survey with information demographic and socioeconomic characteristics, etc.</td>
-        <td>Data Repository</td>
-      </tr>
-        <tr>
-        <th scope="row"><a href="http://www2.census.gov/">Census</a></th>
-        <td>CitySDK - American Community Survey - CitySDK module with data from the ACS.</td>
-        <td>Resource</td>
-      </tr>
-    
-    </tbody>
-  </table>
-          
-
-        </div>
-        
-        <div id="collapsible-datasets-local" aria-hidden="true"
-             class="usa-accordion-content">
-
-        
-
-          <table>
-    <thead>
-      <tr>
-        <th scope="col">City</th>
-        <th scope="col">Description</th>
-        <th scope="col">Provider</th>
-            
-      </tr>
-    </thead>
-    <tbody>
-  
-      <tr>
-        <th scope="row">Baltimore</th>
-        <td><a href="https://data.baltimorecity.gov/">City of Baltimore data site</a></td>
-        <td><a href="https://data.world/search?q=tag%3Abaltimore">data.world datasets</a></td>
-      </tr>
-      <tr>
-        <th scope="row">Chattanooga</th>
-        <td><a href="https://data.chattlibrary.org">City of Chattanooga data site</a></td>
-        <td><a href="https://data.world/search?q=tag%3Achattanooga">data.world datasets</a></td>
-      </tr>
-      <tr>
-        <th scope="row">Detroit</th>
-        <td><a href="https://data.detroitmi.gov">City of Detroit data site</a></td>
-        <td><a href="https://data.world/search?q=tag%3Adetroit">data.world datasets</a></td>
-      </tr>
-   
-     
-    
-    </tbody>
-  </table>
-          
-
-        
-          
-
-        </div>
-      </section>
-    </li>
-  </ul>
-</div>
-      </div>-->
 
 <div class="usa-grid">
-  <h3>User Scenarios</h3>
+  <h3 id="userscenarios">User Scenarios</h3>
 
-  <p>The Opportunity Project is about creating digital solutions to help individuals and communities to thrive. What problem will you solve?</p>
+  <p>The Opportunity Project is about creating digital solutions to help individuals and communities to thrive. This starts with identifying real problems faced by real people in their everyday lives. 
+</p>
   <ul>
           <li>
-            <p class="ood-description">Start with a problem statement that comes from experts, advocates, or your own knowledge of your community. Your team might come up with something like: <em> “People in our community need better access to healthcare services they can get to without a car.”</em></p> 
+            <p class="ood-description">Work together with others in your community, experts or advocates to identify a need.</p> 
           </li>
+      <li><em>OR</em></li>
           <li>
-            <p class="ood-description">Read these user scenarios to guide your team:  Experts have already shared information on problems facing families and communities. These scenarios were created by experts and advocates to describe the real, complex challenges that people are facing in accessing the resources they need to thrive. Use the scenarios in your design process to ensure that what you build responds to real needs. <a href="https://github.com/uscensusbureau/opportunity">Want to add a scenario?  Join us in GitHub.</a></p> 
+            <p class="ood-description">Use the below user scenarios that were carefully developed to describe real, complex challenges in communities. <a href="https://github.com/uscensusbureau/opportunity">Want to add a scenario?  Join us in GitHub.</a></p> 
           </li>
-        <li>
-            <p class="ood-description">Do user testing!  We encourage all teams participating in the Opportunity project to conduct user interviews, usability assessments and other forms of user testing to ensure that people with lived experience in the target problems.</p> 
-          </li>
-     <li>
-            <p class="ood-description">Want to discuss user testing or share your expertise?  Join the conversation in <a href="https://opportunity-slack.herokuapp.com/">Slack</a> and <a href="https://github.com/uscensusbureau/opportunity">GitHub</a>. </p> 
-          </li>
+        
         </ul>
 </div>
 <div class="usa-grid">
@@ -6866,8 +6785,8 @@
 
 
 <div class="usa-grid">
-  <h3><a href="https://uscensusbureau.github.io/citysdk/examples/arcGisHUD/"> CitySDK </a></h3>
-<p class="usa-font-lead">You can get started using Opportunity Project data quickly with this JavaScript toolbox that makes the data developer friendly, user friendly, and collaboration friendly. Check out the data sets above and then visit <a href="https://uscensusbureau.github.io/citysdk/examples/arcGisHUD/"> CitySDK </a> when you’re ready to build. Use the scenarios to help you identify a problem to solve, or design in partnership with your target end users.
+  <h3 id="citysdk"> CitySDK</h3>
+  <p class="usa-font-lead">You can get started using Opportunity Project data quickly with <a href="https://uscensusbureau.github.io/citysdk/examples/arcGisHUD/">CitySDK</a>, a JavaScript toolbox that makes the data developer friendly, user friendly, and collaboration friendly. Check out the data sets above and then visit <a href="https://uscensusbureau.github.io/citysdk/examples/arcGisHUD/"> CitySDK </a> when you’re ready to build. Use the scenarios to help you identify a problem to solve, or design in partnership with your target end users.
 </p>
   
 </div>
