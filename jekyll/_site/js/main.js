@@ -35,7 +35,7 @@
     }
 
     $('a').click(function(e) {
-      //alertLeavingUsg(e, $(this).prop('hostname'));
+      alertLeavingUsg(e, $(this).prop('hostname'));
     });
     $('form').submit(function(e) {
       alertLeavingUsg(e, getHostname($(this).prop('action')));
