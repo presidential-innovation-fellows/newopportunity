@@ -185,8 +185,8 @@
     "Owner": "Flatiron School",
     "Category": "education employment",
     "Short-Message": "A mobile application that uses employment statistics and occupational data from the Bureau of Labor Statistics to make career exploration easy and accessible for high school students.",
-    "Image-File": "#",
-    "Gallery-Link": "#",
+    "Image-File": "https://raw.githubusercontent.com/jmeisel/TOPassets/master/CareerSpark-image.png",
+    "Gallery-Link": "http://apple.co/2cGmRQr",
     "ClearDiv": "yes"
   },
   {
